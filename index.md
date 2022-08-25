@@ -1,4 +1,4 @@
-# Noncommutative geometry reading seminar
+# Noncommutative Geometry Reading Seminar
 ## Topic for September-December 2022: Groupoid C*-algebras
 
 In the upcoming 2022 fall semester, we will be running a seminar on Groupoids and C*-algebras. 
