@@ -3,7 +3,9 @@
 
 In the upcoming 2022 fall semester, we will be running a seminar on Groupoids and C*-algebras. 
 
-We will follow the text book ___A Tool Kit for Groupoid C*-algebras___ in the first couple of talks and then turn to related topics including but not limited to semigroups, graphs, foliations, and twisted groupoids. This page will be updated regularly with details on topics and the remaining schedule.
+We will follow the text book ___A Tool Kit for Groupoid C*-algebras___ in the first couple of talks and then turn to related topics including but not limited to semigroups, graphs, foliations, and twisted groupoids. 
+
+This page will be updated regularly with details on topics and the remaining schedule.
 
 <!-- You can use the [editor on GitHub](https://github.com/Sherlock3711/Groupoid-C--algebras/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
