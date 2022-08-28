@@ -23,18 +23,18 @@ Snellius Building, Room 401(mostly, see changes below), from 13:15 to 15:00.
 
 |  Date   | Location | Speaker  |  Topic |
 |  ----  | ----  | ----  | ---- |
-| 9.13  | 401| Yuezhao | Groupoids: motivations, definitions, and examples. |
-| 9.20  | 401| Yufan |  Haar systems and convolution algebras. |
-| 9.27  | 401| Jack | Actions: part 1. |
-| 10.4  | 401| Bram | Actions: part 2. |
-| 10.11 | 401| Dimitris| The Equivalence Theorem.|
-| 10.18 | 401|  |  |
-| 10.25 | 401|  |  |
-| 11.1 | 408|  |  |
-| 11.8 | 401|  |  |
-| 11.15 | 401|  |  |
-| 11.22 | 401|  |  |
-| 11.29 | 401|  |  |
-| 12.6 | 401|  |  |
-| 12.13 | 408|  |  |
-| 12.20 | 401|  |  |
+| 9.13  | Room 401| Yuezhao | Groupoids: motivations, definitions, and examples. |
+| 9.20  | Room 401| Yufan |  Haar systems and convolution algebras. |
+| 9.27  | Room 401| Jack | Actions: part 1. |
+| 10.4  | Room 401| Bram | Actions: part 2. |
+| 10.11 | Room 401| Dimitris| The Equivalence Theorem.|
+| 10.18 | Room 401|  |  |
+| 10.25 | Room 401|  |  |
+| 11.1 | Room 408|  |  |
+| 11.8 | Room 401|  |  |
+| 11.15 | Room 401|  |  |
+| 11.22 | Room 401|  |  |
+| 11.29 | Room 401|  |  |
+| 12.6 | Room 401|  |  |
+| 12.13 | Room 408|  |  |
+| 12.20 | Room 401|  |  |
