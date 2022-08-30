@@ -11,9 +11,6 @@ This page will be updated regularly with details on topics and the remaining sch
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Organizers: 
-Noncommutative Geometry (normal) subgroup of Analysis and Dynamical systems group.
-
 For more information, please contact y.ge@math.leidenuniv.nl
 
 ### Location:
