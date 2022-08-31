@@ -11,7 +11,7 @@ This page will be updated regularly with details on topics and the remaining sch
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-For more information, please contact <font color=#3399FF> y.ge@math.leidenuniv.nl </font>
+For more information, please contact y.ge@math.leidenuniv.nl
 
 ### Location:
 Snellius Building, Room 401(mostly, see changes below), from 13:15 to 15:00.
