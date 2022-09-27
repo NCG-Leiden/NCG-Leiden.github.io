@@ -33,7 +33,7 @@ Snellius Building, Room 401(mostly, see changes below), from 13:15 to 15:00.
 | 11.8 | Snellius 401|  |  |
 | 11.15 | Snellius 401|  |  |
 | 11.22 | Snellius 401|  |  |
-| 11.29 | Snellius 401| Yuezhao Li | Tangent Groupoid and Index Theory |
+| 11.29 | Snellius 401| Yuezhao Li | Tangent Groupoids and Index Theory |
 | 12.6 | Snellius 401| Adam Rennie | TBA |
 | 12.13 | Snellius 408|  |  |
 | 12.20 | Snellius 401|  |  |
