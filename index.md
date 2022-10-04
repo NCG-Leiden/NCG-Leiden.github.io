@@ -22,7 +22,7 @@ Snellius Building, Room 401(mostly, see changes below), from 13:15 to 15:00.
 
 |  Date   | Location | Speaker  |  Topic |
 |  ---  | :----------:  | ----  | -------- |
-| 9.13  | Snellius 401| Yuezhao Li | Groupoids: Motivations, Definitions, and Examples. |
+| 9.13  | Snellius 401| Yuezhao Li | Motivations, Definitions, and Examples of Groupoids. |
 | 9.20  | Snellius 401| Yufan Ge |  Haar Systems and Convolution Algebras. |
 | 9.27  | -- | -- | No talk |
 | 10.4  | Snellius 401| Jack Ekenstam | Groupoid Actions: part 1. |
