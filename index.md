@@ -32,7 +32,7 @@ Snellius Building, Room 407/409, from 14:15 to 16:00.
 | 11.1 | Snellius 407/409|  |  |
 | 11.8 | Snellius 407/409|  |  |
 | 11.15 | Snellius 407/409|  |  |
-| 11.22 | Snellius 407/409|  |  |
+| 11.22 | Snellius 407/409| Jack Ekenstam | Inverse Semigroups and Groupoids. |
 | 11.29 | Snellius 407/409| Yuezhao Li | Tangent Groupoids and Index Theory. |
 | 12.6 | Snellius 407/409| Adam Rennie | TBA |
 | 12.13 | Snellius 407/409|  |  |
