@@ -31,7 +31,7 @@ Snellius Building, Room 407/409, from 14:15 to 16:00.
 | 10.25 | Snellius 407/409| Bram Mesland | The Equivalence Theorem for Fell Bundles. |
 | 11.1 | Snellius 407/409| Francesca Arici | Pure-infiniteness and Paradoxical Groupoids. |
 | 11.8 | Snellius 407/409| Torstein Ulsnaes | TBA |
-| 11.15 | Snellius 407/409|  |  |
+| 11.15 | Snellius 407/409| Malte Leimbach | TBA |
 | 11.22 | Snellius 407/409| Jack Ekenstam | Inverse Semigroups and Groupoids. |
 | 11.29 | Snellius 407/409| Yuezhao Li | Tangent Groupoids and Index Theory. |
 | 12.6 | Snellius 407/409| Adam Rennie | TBA |
