@@ -16,7 +16,7 @@ For more information, please contact y.ge@math.leidenuniv.nl
 The note of this seminar can be found [here](./notes/groupoid_note.pdf). Last updated: 10.17
 
 ### Location:
-Snellius Building, Room 407/409, from 14:15 to 16:00.
+Snellius Building, Room 408(mostly, see changes below), from 14:15 to 16:00(mostly, see changes below).
 
 ### Schedule:
 
@@ -27,13 +27,13 @@ Snellius Building, Room 407/409, from 14:15 to 16:00.
 | 9.27  | -- | -- | No talk |
 | 10.4  | Snellius 401| Jack Ekenstam | Groupoid Actions: part 1. |
 | 10.11 | Snellius 407/409| Bram Mesland | Groupoid Actions: part 2. |
-| 10.18 | Snellius 407/409| Dimitris Gerontogiannis | The Equivalence Theorem.  |
-| 10.25 | Snellius 407/409| Bram Mesland | The Equivalence Theorem for Fell Bundles. |
-| 11.1 | Snellius 407/409| Francesca Arici | Pure-infiniteness and Paradoxical Groupoids. |
-| 11.8 | Snellius 407/409| Torstein Ulsnaes | TBA |
-| 11.15 | Snellius 407/409| Malte Leimbach | TBA |
-| 11.22 | Snellius 407/409| Jack Ekenstam | Inverse Semigroups and Groupoids. |
-| 11.29 | Snellius 407/409| Yuezhao Li | Tangent Groupoids and Index Theory. |
-| 12.6 | Snellius 407/409| Adam Rennie | TBA |
-| 12.13 | Snellius 407/409| Yufan Ge | Graphs, Groupoids, and Cuntz-Krieger Algebras. |
-| 12.20 | Snellius 407/409|  |  |
+| 10.18 | Snellius 408| Dimitris Gerontogiannis | The Equivalence Theorem.  |
+| 10.25 | Snellius 408| Bram Mesland | The Equivalence Theorem for Fell Bundles. |
+| 11.1 | Snellius 408| Francesca Arici | Pure-infiniteness and Paradoxical Groupoids. |
+| 11.8 | Snellius 408| Torstein Ulsnaes | TBA |
+| 11.15 | Snellius 408| Malte Leimbach | TBA |
+| 11.22 | Snellius 401| Jack Ekenstam | Inverse Semigroups and Groupoids. |
+| 11.29 | Snellius 408| Yuezhao Li | Tangent Groupoids and Index Theory. |
+| 12.6 | Snellius 408| Adam Rennie | TBA |
+| 12.13 | Snellius 408| Yufan Ge | Graphs, Groupoids, and Cuntz-Krieger Algebras. |
+| 12.20 | Snellius 408|  |  |
