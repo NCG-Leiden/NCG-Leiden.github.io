@@ -31,7 +31,7 @@ Snellius Building, Room 408(mostly, see changes below), from 14:15 to 16:00(most
 | 10.25 | Snellius 408| Bram Mesland | The Equivalence Theorem for Fell Bundles. |
 | 11.1 | Snellius 408| Francesca Arici | Pure-infiniteness and Paradoxical Groupoids. |
 | 11.8 | Snellius 408| Torstein Ulsnaes | TBA |
-| 11.15 | Snellius 408| Malte Leimbach | TBA |
+| 11.15 | Snellius 408| Malte Leimbach | The Existence and Uniqueness of Haar Systems |
 | 11.22 | Snellius 401| Jack Ekenstam | Inverse Semigroups and Groupoids. |
 | 11.29 | Snellius 408| Yuezhao Li | Tangent Groupoids and Index Theory. |
 | 12.6 | Snellius 408| Adam Rennie | TBA |
