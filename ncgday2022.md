@@ -2,7 +2,7 @@
 
 December 2nd, 2022. 
 
-##Programme
+## Programme
 
 9:30 - 10:15: Prof. dr. Walter van Suijlekom (Nijmegen)__Noncommutative spaces at finite resolution__
 
