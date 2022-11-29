@@ -2,7 +2,9 @@
 
 December 2nd, 2022. 
 
-## Programme
+The event will take place in the new Gorlaeus Building room DM021PC, from 9:30-17:00. 
+
+### Programme
 
 9:30 - 10:15: Prof. dr. Walter van Suijlekom (Nijmegen)__Noncommutative spaces at finite resolution__
 
@@ -23,6 +25,7 @@ Walter van Suijlekom, __Noncommutative geometry at finite resolution__
 
 We extend the traditional framework of noncommutative geometry in order to deal with two types of approximation of metric spaces. On the one hand, we consider spectral truncations of geometric spaces, while on the other hand, we consider metric spaces up to a finite resolution. In our approach the traditional role played by C*-algebras is taken over by so-called operator systems. We consider C*-envelopes and introduce a propagation number for operator systems, which we show to be an invariant under stable equivalence and use it to compare approximations of the same space. We illustrate our methods for concrete examples obtained by spectral truncations of the circle, and of metric spaces up to finite resolution.
 
+
 Malte Leimbach, __On spectral truncations of the torus__
 
 It was shown by van Suijlekom that the metric spaces obtained from spectral truncations of the circle converge in Gromov-Hausdorff 
@@ -37,17 +40,21 @@ with the lattice point counting problem. We will give a preliminary
 answer to the above mentioned question for low-dimensions. This is joint 
 work with Walter van Suijlekom.
 
+
 Dimitris Gerontogiannis, __A geometric Fredholm module representation of the fundamental class for Smale spaces__
 
 Ruelle algebras are purely infinite C*-algebras from Smale spaces and analogues of higher dimensional Cuntz-Krieger algebras. More than a decade ago, Jerry Kaminker, Ian Putnam and Mike Whittaker proved that Ruelle algebras exhibit Poincaré duality in KK-theory. The fundamental class was represented by an extension by the compact operators. This talk presents a geometric Fredholm module representation of the fundamental class. This work opens the window to Lefschetz fixed point theorems for Ruelle algebras. The construction's backbone is Markov partitions. This is joint work with Mike Whittaker and Joachim Zacharias. 
+
 
 Bram Mesland, __Existence of Levi-Civita connections in noncommutative geometry__
 
 In this talk I will discuss the construction of Hermitian and torsion-free connections associated to a spectral triple, under mild "geometric" assumptions. In particular I will explain an unexpected link with the "two-projection-problem" in Hilbert C*-modules. Joint work with Adam Rennie.
 
+
 Adam Rennie, __Uniqueness and curvature of Levi-Civita connections in noncommutative geometry__
 
 After giving sufficient conditions for uniqueness of Hermitian and torsion-free connections, I will give some examples, along with their curvatures. Joint work with Bram Mesland
+
 
 Peter Hochs, __C*-algebras of symmetric spaces__
 
