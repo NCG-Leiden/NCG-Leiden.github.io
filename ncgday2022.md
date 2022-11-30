@@ -6,11 +6,11 @@ The event will take place in the new Gorlaeus Building room DM021PC, from 9:30-1
 
 ### Programme
 
-9:30 - 10:15: Prof. dr. Walter van Suijlekom (Nijmegen)__Noncommutative spaces at finite resolution__
+9:30 - 10:15: Prof. dr. Walter van Suijlekom (Nijmegen), __Noncommutative spaces at finite resolution__
 
 10:45 - 11:30: Malte Leimbach (Nijmegen), __On spectral truncations of the torus__
 
-11:45 - 12:30: Dr. Dimitris Gerontogiannis (Leiden) __A geometric Fredholm module representation of the fundamental class for Smale spaces__
+11:45 - 12:30: Dr. Dimitris Gerontogiannis (Leiden), __A geometric Fredholm module representation of the fundamental class for Smale spaces__
 
 14:00 -14:45: Dr. Bram Mesland (Leiden), __Existence of Levi-Civita connections in noncommutative geometry__
 
