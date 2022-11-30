@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # NCG Day 2022
 
 On December 2nd, 2022 we will have a small workshop at Leiden University on Noncommutative Geometry and its applications. 
