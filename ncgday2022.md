@@ -35,7 +35,7 @@ The event will take place in the new Gorlaeus Building room DM021PC, from 9:30-1
 
 Walter van Suijlekom, __Noncommutative geometry at finite resolution__
 
-We extend the traditional framework of noncommutative geometry in order to deal with two types of approximation of metric spaces. On the one hand, we consider spectral truncations of geometric spaces, while on the other hand, we consider metric spaces up to a finite resolution. In our approach the traditional role played by C*-algebras is taken over by so-called operator systems. We consider C*-envelopes and introduce a propagation number for operator systems, which we show to be an invariant under stable equivalence and use it to compare approximations of the same space. We illustrate our methods for concrete examples obtained by spectral truncations of the circle, and of metric spaces up to finite resolution.
+We extend the traditional framework of noncommutative geometry in order to deal with two types of approximation of metric spaces. On the one hand, we consider spectral truncations of geometric spaces, while on the other hand, we consider metric spaces up to a finite resolution. In our approach the traditional role played by $\text{C}^\ast$-algebras is taken over by so-called operator systems. We consider $\text{C}^\ast$-envelopes and introduce a propagation number for operator systems, which we show to be an invariant under stable equivalence and use it to compare approximations of the same space. We illustrate our methods for concrete examples obtained by spectral truncations of the circle, and of metric spaces up to finite resolution.
 
 
 Malte Leimbach, __On spectral truncations of the torus__
@@ -55,7 +55,7 @@ work with Walter van Suijlekom.
 
 Dimitris Gerontogiannis, __A geometric Fredholm module representation of the fundamental class for Smale spaces__
 
-Ruelle algebras are purely infinite C*-algebras from Smale spaces and analogues of higher dimensional Cuntz-Krieger algebras. More than a decade ago, Jerry Kaminker, Ian Putnam and Mike Whittaker proved that Ruelle algebras exhibit Poincaré duality in KK-theory. The fundamental class was represented by an extension by the compact operators. This talk presents a geometric Fredholm module representation of the fundamental class. This work opens the window to Lefschetz fixed point theorems for Ruelle algebras. The construction's backbone is Markov partitions. This is joint work with Mike Whittaker and Joachim Zacharias. 
+Ruelle algebras are purely infinite $\text{C}^\ast$-algebras from Smale spaces and analogues of higher dimensional Cuntz-Krieger algebras. More than a decade ago, Jerry Kaminker, Ian Putnam and Mike Whittaker proved that Ruelle algebras exhibit Poincaré duality in KK-theory. The fundamental class was represented by an extension by the compact operators. This talk presents a geometric Fredholm module representation of the fundamental class. This work opens the window to Lefschetz fixed point theorems for Ruelle algebras. The construction's backbone is Markov partitions. This is joint work with Mike Whittaker and Joachim Zacharias. 
 
 
 Bram Mesland, __Existence of Levi-Civita connections in noncommutative geometry__
