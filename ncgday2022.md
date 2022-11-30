@@ -1,6 +1,6 @@
 # NCG Day 2022
 
-December 2nd, 2022. 
+On December 2nd, 2022 we will have a small workshop at Leiden University on Noncommutative Geometry and its applications. 
 
 The event will take place in the new Gorlaeus Building room DM021PC, from 9:30-17:00. 
 
