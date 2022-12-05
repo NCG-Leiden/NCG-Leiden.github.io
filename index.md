@@ -34,5 +34,5 @@ Snellius Building, Room 408(mostly, see changes below), from 14:15 to 16:00.
 | 11.15 | Snellius 408| Malte Leimbach | The Existence and Uniqueness of Haar Systems |
 | 11.22 | Snellius 176| Jack Ekenstam | Inverse Semigroups and Groupoids. |
 | 11.29 | Snellius 408| Yuezhao Li | Tangent Groupoids and Index Theory. |
-| 12.6 | Snellius 408| Adam Rennie | Aroupoids Suck Slightly More Than Everything Else |
+| 12.6 | Snellius 408| Adam Rennie | Groupoids Suck Slightly More Than Everything Else |
 | 12.13 | Snellius 408| Yufan Ge | Graphs, Groupoids, and Cuntz-Krieger Algebras. |
