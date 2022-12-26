@@ -13,7 +13,7 @@ This page will be updated regularly with details on topics and the remaining sch
 
 For more information, please contact y.ge@math.leidenuniv.nl
 
-The note of this seminar can be found [here](./notes/groupoid_note.pdf). Last updated: 12.24.2022.
+The note of this seminar can be found [here](./notes/groupoid_note.pdf). Last updated: 12.25.2022.
 
 ### Location:
 Snellius Building, Room 408(mostly, see changes below), from 14:15 to 16:00.
