@@ -1,38 +1,31 @@
 # Noncommutative Geometry Reading Seminar
-## Topic for September-December 2022: Groupoid C*-algebras
+## Topic for September-December 2023: Foliations
 
-In the 2022 fall semester, we are running a seminar on Groupoids and C*-algebras. 
+In 2023 fall semester, the noncommutative geometry group of Leiden university will be running a seminar on foliations. A foliation on a manifold is, roughly speaking, a decomposition of it into immersed submanifolds (called the leaves of the foliation), such that the leaves fit together nicely. Foliations arise naturally in various geometric contexts, e.g. solutions of differential equations and integrable systems, and in symplectic geometry.
 
-We will follow the text book ___A Tool Kit for Groupoid C*-algebras___ in the first couple of talks and then turn to related topics including but not limited to semigroups, graphs, foliations, and twisted groupoids. 
+The theory of foliations is too rich on its own, and we would rather focus on their noncommutative geometry. The noncommutative geometry of foliations was initiated by Alain Connes in the late 1970s, when he realised that the geometry of a foliation can be encoded in a noncommutative C\*-algebra. The construction is in two steps: one first builds the holonomy groupoid of the foliation, then takes its reduced groupoid C\*-algebra. This C\*-algebra might be viewed as the "noncommutative space" of leaves, and is the desired receptacle for the index theory of longitudinal elliptic operators. This was achieved in the seminal work of Connes and Skandalis. We will reach this topic at the end of this seminar.
 
-This page will be updated regularly with details on topics and the remaining schedule.
+Another focus of the seminar is to understand certain foliations arising from dynamical systems. Lindsey and Treviño have constructed translation surfaces from bi-infinite Bratteli diagrams. Their construction is essentially combinatorial. Putnam and Treviño investigated on these surfaces, based on operator algebraic techniques. Slightly more precisely, they build explicit relations between the groupoid C\*-algebras constructed from the Bratteli diagram, and the C\*-algebras constructed from suitable foliations on the translation surface. This also allows them to compute the K-theory of the aforementioned C\*-algebras.
 
-<!-- You can use the [editor on GitHub](https://github.com/Sherlock3711/Groupoid-C--algebras/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
-
-<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
-
-For more information, please contact y.ge@math.leidenuniv.nl
-
-The note of this seminar can be found [here](./notes/groupoid_notes.pdf). Last updated: 4.29.2022.
-
-### Location:
-Snellius Building, Room 408(mostly, see changes below), from 14:15 to 16:00.
+### Date and Location:
+Tuesday 15:15-17:00, Gorlaeus building.
 
 ### Schedule:
 
 |  Date   | Location | Speaker  |  Topic |
-|  ---  | :----------:  | ----  | -------- |
-| 9.13  | Snellius 401| Yuezhao Li | Motivations, Definitions, and Examples of Groupoids. |
-| 9.20  | Snellius 401| Yufan Ge |  Haar Systems and Convolution Algebras. |
-| 9.27  | -- | -- | No talk |
-| 10.4  | Snellius 401| Jack Ekenstam | Groupoid Actions: part 1. |
-| 10.11 | Snellius 407/409| Bram Mesland | Groupoid Actions: part 2. |
-| 10.18 | Snellius 408| Dimitris Gerontogiannis | The Equivalence Theorem.  |
-| 10.25 | Snellius 408| Bram Mesland | The Equivalence Theorem for Fell Bundles. |
-| 11.1 | Snellius 408| -- | Middle Break: Problem Discussion |
-| 11.8 | Snellius 408| Torstein Ulsnaes | Induced Representations |
-| 11.15 | Snellius 408| Malte Leimbach | The Existence and Uniqueness of Haar Systems |
-| 11.22 | Snellius 176| Jack Ekenstam | Inverse Semigroups and Groupoids. |
-| 11.29 | Snellius 408| Yuezhao Li | Tangent Groupoids and Index Theory. |
-| 12.6 | Snellius 408| Adam Rennie | Groupoids Suck Slightly More Than Everything Else |
-| 12.13 | Snellius 408| Yufan Ge | Graph Groupoids and Doplicher-Roberts Algebras. |
+|  ---  | :-----------  | ----  | -------- |
+| Sep 12 | Gorlaeus DM 0.13 | Yuezhao Li | Foliations:  motivations, definitions and examples |
+| Sep 19 | Gorlaeus DM 0.17 | Yufan Ge | Holonomy and stability |
+| Sep 26 | Gorlaeus DM 0.13 |  |  |
+| Oct 03 |  |  |  |
+| Oct 10 | Gorlaeus DM 0.13 |  |  |
+| Oct 17 | Gorlaeus EM 1.17 |  |   |
+| Oct 24 | Gorlaeus DM 0.13 |  |  |
+| Oct 31 | Gorlaeus EM 1.17 |  |  |
+| Nov 07 | Gorlaeus DM 0.13 |  |  |
+| Nov 14 | Gorlaeus DM 1.19 |            |  |
+| Nov 21 | Gorlaeus DM 1.15 |  |  |
+| Nov 28 | Gorlaeus DM 1.15 |  |  |
+| Dec 05 | Gorlaeus DM 1.15 |  |  |
+| Dec 12 | Gorlaeus DM 1.15 |  |  |
+| Dec 19 | Gorlaeus DM 0.13 |  |  |
