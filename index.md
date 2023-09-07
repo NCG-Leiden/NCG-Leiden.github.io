@@ -1,14 +1,20 @@
 # Noncommutative Geometry Reading Seminar
 ## Topic for September-December 2023: Foliations
 
-In 2023 fall semester, the noncommutative geometry group of Leiden university will be running a seminar on foliations. A foliation on a manifold is, roughly speaking, a decomposition of it into immersed submanifolds (called the leaves of the foliation), such that the leaves fit together nicely. Foliations arise naturally in various geometric contexts, e.g. solutions of differential equations and integrable systems, and in symplectic geometry.
+In 2023 fall semester, we are running a seminar on foliations, focusing on their noncommutative geometry. The noncommutative geometry of foliations was initiated by Alain Connes in the late 1970s, when he realised that the geometry of a foliation can be encoded in a noncommutative C\*-algebra. The construction is in two steps: one first builds the holonomy groupoid of the foliation, then takes its reduced groupoid C\*-algebra. This C\*-algebra might be viewed as the "noncommutative space" of leaves, and is the desired receptacle for the index theory of longitudinal elliptic operators. This was achieved in the seminal work of Connes and Skandalis. We will reach this topic at the end of this seminar.
 
-The theory of foliations is too rich on its own, and we would rather focus on their noncommutative geometry. The noncommutative geometry of foliations was initiated by Alain Connes in the late 1970s, when he realised that the geometry of a foliation can be encoded in a noncommutative C\*-algebra. The construction is in two steps: one first builds the holonomy groupoid of the foliation, then takes its reduced groupoid C\*-algebra. This C\*-algebra might be viewed as the "noncommutative space" of leaves, and is the desired receptacle for the index theory of longitudinal elliptic operators. This was achieved in the seminal work of Connes and Skandalis. We will reach this topic at the end of this seminar.
+Another focus of the seminar is to understand certain foliations arising from dynamical systems. Lindsey and Treviño have constructed translation surfaces from bi-infinite Bratteli diagrams using combinatorial methods. These were further studied by Putnam and Treviño with operator algebraic techniques. Moreover, Putnam and Treviño build explicit relations between the groupoid C\*-algebras constructed from the Bratteli diagram, and the C\*-algebras constructed from suitable foliations on the translation surface. This also allows them to compute the K-theory of the aforementioned C\*-algebras.
 
-Another focus of the seminar is to understand certain foliations arising from dynamical systems. Lindsey and Treviño have constructed translation surfaces from bi-infinite Bratteli diagrams. Their construction is essentially combinatorial. Putnam and Treviño investigated on these surfaces, based on operator algebraic techniques. Slightly more precisely, they build explicit relations between the groupoid C\*-algebras constructed from the Bratteli diagram, and the C\*-algebras constructed from suitable foliations on the translation surface. This also allows them to compute the K-theory of the aforementioned C\*-algebras.
+An announcement, including some preliminary topics of talks, can be found here.
 
 ### Date and Location:
-Tuesday 15:15-17:00, Gorlaeus building.
+Tuesday 15:15-17:00, Gorlaeus building. 
+
+The rooms are a little bit hard to hard. Instead: you may join us from Snellius building at 15:05.
+
+### Literature:
+
+
 
 ### Schedule:
 
