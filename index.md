@@ -31,7 +31,7 @@ Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/grou
 | Sep 12 | Gorlaeus DM 0.13 | Yuezhao Li | Foliations:  motivations, definitions and examples |
 | Sep 19 | Gorlaeus DM 0.17 | Yufan Ge | Holonomy and stability |
 | Sep 26 | Gorlaeus DM 0.13 |  |  |
-| Oct 03 |  |  |  |
+| Oct 03 | --- | --- | **No talk** (Liberation Day)   |
 | Oct 10 | Gorlaeus DM 0.13 |  |  |
 | Oct 17 | Gorlaeus EM 1.17 |  |   |
 | Oct 24 | Gorlaeus DM 0.13 |  |  |
