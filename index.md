@@ -22,7 +22,7 @@ Ian F. Putnam and Rodrigo Treviño, *Bratteli diagrams, translation flows and th
 
 A. Connes and G. Skandalis, *The longitudinal index theorem for foliations*
 
-Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/groupoids_notes.pdf) and [KK-theory seminar](https://liyuezhao.github.io/notes/kk_notes.pdf).
+Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/groupoid_notes.pdf) and [KK-theory seminar](https://liyuezhao.github.io/notes/kk_notes.pdf).
 
 ### Schedule:
 
