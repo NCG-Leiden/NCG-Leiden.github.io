@@ -14,13 +14,13 @@ The rooms are a little bit hard to hard (see [Science Campus map](https://www.un
 
 ### Literature:
 
- I. Moerdijk and J. Mrčun, *Introduction to foliations and Lie groupoids*
+ I. Moerdijk and J. Mrčun, *Introduction to foliations and Lie groupoids*.
 
-Calvin C. Moore and Claude L. Schochet, *Global analysis on foliated spaces*
+Calvin C. Moore and Claude L. Schochet, *Global analysis on foliated spaces*.
 
 Ian F. Putnam and Rodrigo Treviño, *Bratteli diagrams, translation flows and their C\*-algebras*. arXiv: 2205.01537
 
-A. Connes and G. Skandalis, *The longitudinal index theorem for foliations*
+A. Connes and G. Skandalis, *The longitudinal index theorem for foliations*.
 
 Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/groupoid_notes.pdf) and [KK-theory seminar](https://liyuezhao.github.io/notes/kk_notes.pdf).
 
