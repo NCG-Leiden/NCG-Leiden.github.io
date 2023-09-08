@@ -26,20 +26,22 @@ Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/grou
 
 ### Schedule:
 
-|  Date   | Location | Speaker  |  Topic |
+All rooms are located in **Gorlaeus building**.
+
+|  Date   | Room | Speaker  |  Topic |
 |  ---  | :-----------  | ----  | -------- |
-| Sep 12 | Gorlaeus DM 0.13 | Yuezhao Li | Foliations:  motivations, definitions and examples |
-| Sep 19 | Gorlaeus DM 0.17 | Yufan Ge | Holonomy and stability |
-| Sep 26 | Gorlaeus DM 0.13 |  |  |
+| Sep 12 | DM 0.13 | Yuezhao Li | Foliations:  motivations, definitions and examples |
+| Sep 19 | DM 0.17 | Yufan Ge | Holonomy and stability |
+| Sep 26 | DM 0.13 |  |  |
 | Oct 03 | --- | --- | **No talk** (Liberation Day)   |
-| Oct 10 | Gorlaeus DM 0.13 |  |  |
-| Oct 17 | Gorlaeus EM 1.17 |  |   |
-| Oct 24 | Gorlaeus DM 0.13 |  |  |
-| Oct 31 | Gorlaeus EM 1.17 |  |  |
-| Nov 07 | Gorlaeus DM 0.13 |  |  |
-| Nov 14 | Gorlaeus DM 1.19 |            |  |
-| Nov 21 | Gorlaeus DM 1.15 |  |  |
-| Nov 28 | Gorlaeus DM 1.15 |  |  |
-| Dec 05 | Gorlaeus DM 1.15 |  |  |
-| Dec 12 | Gorlaeus DM 1.15 |  |  |
-| Dec 19 | Gorlaeus DM 0.13 |  |  |
+| Oct 10 | DM 0.13 |  |  |
+| Oct 17 | EM 1.17 |  |   |
+| Oct 24 | DM 0.13 |  |  |
+| Oct 31 | EM 1.17 |  |  |
+| Nov 07 | DM 0.13 |  |  |
+| Nov 14 | DM 1.19 |            |  |
+| Nov 21 | DM 1.15 |  |  |
+| Nov 28 | DM 1.15 |  |  |
+| Dec 05 | DM 1.15 |  |  |
+| Dec 12 | DM 1.15 |  |  |
+| Dec 19 | DM 0.13 |  |  |
