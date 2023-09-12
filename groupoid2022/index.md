@@ -13,10 +13,10 @@ We followed the text book ___A Tool Kit for Groupoid C*-algebras___ in the first
 
 For more information, please contact y.ge@math.leidenuniv.nl
 
-The note of this seminar can be found [here](./groupoid_notes.pdf). Last updated: 4.29.2023.
+The note of this seminar can be found [here](./groupoid_notes.pdf). Last updated: 9.12.2023.
 
 ### Location:
-Snellius Building, Room 408(mostly, see changes below), from 14:15 to 16:00.
+Snellius Building, Room 408 (mostly, see changes below), from 14:15 to 16:00.
 
 ### Schedule:
 
