@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
-classes: wide
+title: 'NCG-Leiden'
+url: 'https://ncg-leiden.github.io/'
