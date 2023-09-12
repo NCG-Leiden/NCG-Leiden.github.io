@@ -7,10 +7,10 @@ Another focus of the seminar is to understand certain foliations arising from dy
 
 An announcement, including some preliminary topics of talks, can be found [here](https://ncg-leiden.github.io/foliation2023/foliation_announcement.pdf).
 
-### Date and Location:
+### Date and Location
 **Tuesday 15:15-17:00, Gorlaeus building**. The rooms are a little bit hard to hard (see [Science Campus map](https://www.universiteitleiden.nl/binaries/content/assets/science/cm/campusplattegrond-faculty-of-science.pdf?_ga=2.210011805.922390172.1671443107-1639011062.1660081271)). Instead: you may join us from Snellius building at 15:05.
 
-### Literature:
+### Literature
 
  I. Moerdijk and J. Mrčun, *Introduction to foliations and Lie groupoids*.
 
@@ -26,7 +26,7 @@ Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/grou
 
 Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Sep 12, 2023.
 
-### Schedule:
+### Schedule
 
 All rooms are located in **Gorlaeus building**.
 
