@@ -24,6 +24,10 @@ A. Connes and G. Skandalis, *The longitudinal index theorem for foliations*.
 
 Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/groupoid_notes.pdf) and [KK-theory seminar](https://liyuezhao.github.io/notes/kk_notes.pdf).
 
+### Notes
+
+Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Sep 12, 2023.
+
 ### Schedule:
 
 All rooms are located in **Gorlaeus building**.
