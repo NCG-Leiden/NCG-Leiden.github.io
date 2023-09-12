@@ -1,5 +1,5 @@
 # Noncommutative Geometry Reading Seminar
-## Topic for 2023 Fall Semester: Foliations
+## 2023 Fall: Foliations
 
 In 2023 fall semester, we are running a seminar on foliations, focusing on their noncommutative geometry. The noncommutative geometry of foliations was initiated by Alain Connes in the late 1970s, when he realised that the geometry of a foliation can be encoded in a noncommutative C\*-algebra. The construction is in two steps: one first builds the holonomy groupoid of the foliation, then takes its reduced groupoid C\*-algebra. This C\*-algebra might be viewed as the "noncommutative space" of leaves, and is the desired receptacle for the index theory of longitudinal elliptic operators. This was achieved in the seminal work of Connes and Skandalis. We will reach this topic at the end of this seminar.
 
@@ -20,7 +20,7 @@ Ian F. Putnam and Rodrigo Treviño, *Bratteli diagrams, translation flows and th
 
 A. Connes and G. Skandalis, *The longitudinal index theorem for foliations*.
 
-Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/groupoid_notes.pdf) and [KK-theory seminar](https://liyuezhao.github.io/notes/kk_notes.pdf).
+Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/groupoid_notes.pdf) and [KK-theory seminar](https://ncg-leiden.github.io/kk2022/kk_notes.pdf).
 
 ### Notes
 
