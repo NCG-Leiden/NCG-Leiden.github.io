@@ -16,7 +16,7 @@ An announcement, including some preliminary topics of talks, can be found [here]
 
 Calvin C. Moore and Claude L. Schochet, *Global analysis on foliated spaces*.
 
-Ian F. Putnam and Rodrigo Treviño, *Bratteli diagrams, translation flows and their C\*-algebras*. arXiv: 2205.01537
+Ian F. Putnam and Rodrigo Treviño, *Bratteli diagrams, translation flows and their C\*-algebras*. [arXiv: 2205.01537](https://arxiv.org/abs/2205.01537)
 
 A. Connes and G. Skandalis, *The longitudinal index theorem for foliations*.
 
