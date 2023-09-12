@@ -34,10 +34,10 @@ All rooms are located in **Gorlaeus building**.
 |  ---  | :-----------  | ----  | -------- |
 | Sep 12 | DM 0.13 | Yuezhao Li | Foliations:  motivations, definitions and examples |
 | Sep 19 | DM 0.17 | Yufan Ge | Holonomy and stability |
-| Sep 26 | DM 0.13 |  |  |
+| Sep 26 | DM 0.13 | Jack Ekenstam | Groupoids |
 | Oct 03 | --- | --- | **No talk** (Liberation Day)   |
 | Oct 10 | DM 0.13 |  |  |
-| Oct 17 | EM 1.17 |  |   |
+| Oct 17 | EM 1.17 | Malte Leimbach |   |
 | Oct 24 | DM 0.13 |  |  |
 | Oct 31 | EM 1.17 |  |  |
 | Nov 07 | DM 0.13 |  |  |
