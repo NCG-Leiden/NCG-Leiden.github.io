@@ -12,7 +12,7 @@ An announcement, including some preliminary topics of talks, can be found [here]
 
 ### Contact
 
-y.li AT math.leidenuniv.nl
+Yuezhao Li (y.li AT math.leidenuniv.nl)
 
 ### Literature
 
