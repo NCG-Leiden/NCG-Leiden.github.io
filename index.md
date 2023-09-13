@@ -10,6 +10,10 @@ An announcement, including some preliminary topics of talks, can be found [here]
 ### Date and Location
 **Tuesday 15:15-17:00, Gorlaeus building**. The rooms are a little bit hard to hard (see [Science Campus map](https://www.universiteitleiden.nl/binaries/content/assets/science/cm/campusplattegrond-faculty-of-science.pdf?_ga=2.210011805.922390172.1671443107-1639011062.1660081271)). Instead: you may join us from Snellius building at 15:05.
 
+### Contact
+
+y.li AT math.leidenuniv.nl
+
 ### Literature
 
  I. Moerdijk and J. Mrčun, *Introduction to foliations and Lie groupoids*.
