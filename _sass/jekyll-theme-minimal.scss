@@ -57,9 +57,7 @@ a:hover small {
 
 .wrapper {
   width:1250px;
-  max-height: 100px;
   margin:0 auto;
-  overflow-y: auto;
 }
 
 blockquote {
@@ -126,6 +124,8 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  max-height:750px;
+  overflow-y:auto;
 }
 
 ul.downloads {
