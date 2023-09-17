@@ -5,7 +5,7 @@ In 2023 fall semester, we are running a seminar on foliations, focusing on their
 
 Another focus of the seminar is to understand certain foliations arising from dynamical systems. Lindsey and Treviño constructed translation surfaces from bi-infinite Bratteli diagrams using combinatorial methods. These were further studied by Putnam and Treviño with operator algebraic techniques in a recent print. Putnam and Treviño built explicit relations between the  groupoid C\*-algebras constructed from the Bratteli diagram, and the C\*-algebras constructed from suitable foliations on the translation surface. This also allows them to compute the K-theory of the aforementioned C\*-algebras.
 
-An announcement, including some preliminary topics of talks, can be found [here](https://ncg-leiden.github.io/foliation2023/foliation_announcement.pdf).
+An announcement, including some preliminary topics of talks, can be found [here](https://ncg-leiden.github.io/foliation2023/foliation_announcement.pdf) (Last updated: Sep 15, 2023).
 
 ### Date and Location
 **Tuesday 15:15-17:00, Gorlaeus building**. The rooms are a little bit hard to hard (see [Science Campus map](https://www.universiteitleiden.nl/binaries/content/assets/science/cm/campusplattegrond-faculty-of-science.pdf?_ga=2.210011805.922390172.1671443107-1639011062.1660081271)). Instead: you may join us from Snellius building at 15:05.
