@@ -8,7 +8,7 @@ Another focus of the seminar is to understand certain foliations arising from dy
 An announcement, including some preliminary topics of talks, can be found [here](https://ncg-leiden.github.io/foliation2023/foliation_announcement.pdf) (Last updated: Sep 17, 2023).
 
 ### Date and Location
-**Tuesday 15:15-17:00, Gorlaeus building**. The rooms are a little bit hard to hard (see [Science Campus map](https://www.universiteitleiden.nl/binaries/content/assets/science/cm/campusplattegrond-faculty-of-science.pdf?_ga=2.210011805.922390172.1671443107-1639011062.1660081271)). Instead: you may join us from Snellius building at 15:05.
+**Tuesday 15:15-17:00**. Most of the talks will be in **Gorlaeus building**. The rooms are a little bit hard to hard (see [Science Campus map](https://www.universiteitleiden.nl/binaries/content/assets/science/cm/campusplattegrond-faculty-of-science.pdf?_ga=2.210011805.922390172.1671443107-1639011062.1660081271)). Instead: you may join us from Snellius building at 15:05.
 
 ### Contact
 
@@ -32,7 +32,7 @@ Notes of the talk are available [here](https://ncg-leiden.github.io/foliation202
 
 ### Schedule
 
-All rooms are located in **Gorlaeus building**.
+Most of the talks will be held in **Gorlaeus building**. The exception is October 17 where we will be in **Huygens building** 2.11-2.14.
 
 |  Date   | Room | Speaker  |  Topic |
 |  ---  | :-----------  | ----  | -------- |
@@ -41,7 +41,7 @@ All rooms are located in **Gorlaeus building**.
 | Sep 26 | DM 0.13 | Jack Ekenstam | Lie Groupoids |
 | Oct 03 | --- | --- | **No talk** (Liberation Day)   |
 | Oct 10 | DM 0.13 | Bram Mesland | C\*-algebras of foliations |
-| Oct 17 | EM 1.17 | Malte Leimbach |   |
+| Oct 17 | HUY 2.11-2.14 | Malte Leimbach |   |
 | Oct 24 | DM 0.13 |  |  |
 | Oct 31 | EM 1.17 |  |  |
 | Nov 07 | DM 0.13 |  |  |
