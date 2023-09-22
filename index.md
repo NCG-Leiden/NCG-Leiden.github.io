@@ -32,7 +32,7 @@ Notes of the talk are available [here](https://ncg-leiden.github.io/foliation202
 
 ### Schedule
 
-Most of the talks will be held in **Gorlaeus building**. The exception is October 17 where we will be in **Huygens building** 2.11-2.14.
+Most of the talks will be held in **Gorlaeus building**. The exception is October 17, on which day we will be in **Huygens building** 2.11-2.14.
 
 |  Date   | Room | Speaker  |  Topic |
 |  ---  | :-----------  | ----  | -------- |
