@@ -44,11 +44,11 @@ The exception is October 17, on which day we will be in **Huygens building** 2.1
 | Sep 19 | DM 0.17 | Yufan Ge | Holonomy and stability |
 | Sep 26 | DM 0.13 | Jack Ekenstam | Lie Groupoids |
 | Oct 03 | --- | --- | **No talk** (Liberation Day)   |
-| Oct 10 | DM 0.13 | Bram Mesland | C\*-algebras of foliations |
-| Oct 17 | HUY 2.11-2.14 | Malte Leimbach |   |
-| Oct 24 | DM 0.13 |  |  |
+| Oct 10 | --- | --- | **No talk** |
+| Oct 17 | HUY 2.11-2.14 | Bram Mesland | C\*-algebras of foliations |
+| Oct 24 | DM 0.13 | Olga Lukina |  |
 | Oct 31 | EM 1.17 |  |  |
-| Nov 07 | DM 0.13 |  |  |
+| Nov 07 | DM 0.13 | Malte Leimbach |  |
 | Nov 14 | DM 1.19 |            |  |
 | Nov 21 | DM 1.15 |  |  |
 | Nov 28 | DM 1.15 |  |  |
