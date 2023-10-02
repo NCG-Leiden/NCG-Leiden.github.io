@@ -1,7 +1,7 @@
 # Noncommutative Geometry Reading Seminar
 ## 2022 Spring: K(K)-theory
 
-In 2022 spring semester, we are running a reading seminar on K-theory and KK-theory at Leiden university. In this seminar we will study some basic knowledge of KK-theory for C\*-algebras. We will start with a quick recap of the properties of K-theory, focusing on its formal properties like the Bott periodicity and Thom isomorphisms, which shall be more illuminating in the framework of KK-theory. Then we will provide the two basic pictures of KK-theory due to Kasparov and Cuntz. After that we shall study the formal properties of KK-theory, which are mostly due to the existence of the Kasparov product. Using the Kasparov product we may construct a category KK which is equipped with a triangulated structure, so various toolkits from homological algebra can be adapted to it. In the end, we shall discuss the unbounded picture of KK-theory, whose theory is developed rapidly in recent years and proved to be useful in the study of noncommutative differential geometry.
+In 2022 spring semester, we ran a reading seminar on K-theory and KK-theory at Leiden university. In this seminar we studied some basic knowledge of KK-theory for C\*-algebras. We began with a quick recap of the properties of K-theory, focusing on its formal properties like the Bott periodicity and Thom isomorphisms, which became more illuminating in the framework of KK-theory. Then we provided the two basic pictures of KK-theory due to Kasparov and Cuntz. After that we studied the formal properties of KK-theory, which are mostly due to the existence of the Kasparov product. Using the Kasparov product we are able to construct a category KK which is equipped with a triangulated structure, so various toolkits from homological algebra can be adapted to it. In the end, we discussed the unbounded picture of KK-theory, whose theory had been developed rapidly in recent years and proved to be useful in the study of noncommutative differential geometry.
 
 **Prerequisites**. The participants should be familiar with basic theory of C\*-algebras. Knowledge on the K-theory of C\*-algebras is not assumed but suggested.
 
@@ -12,8 +12,7 @@ If you are interested: please contact Yuezhao Li (y.li AT math.leidenuniv.nl).
 
 ### Date and Location
 
-**Tuesdays, 12.15-14.00, in Gorlaeus building**. We are in different rooms depending on the date, see the table below.
-The room is hard to find (you need to enter from Huygens building, go upstairs and walk along several corridors then go downstairs). But you may join us at Snellius common room at 12.00.
+**Tuesdays, 12.15-14.00, in Gorlaeus building**. 
 
 ### Notes
 Notes of the talks are available [here](https://ncg-leiden.github.io/kk2022/kk_notes.pdf).
