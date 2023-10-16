@@ -47,9 +47,9 @@ The exception is October 17, on which day we will be in **Huygens building** 2.1
 | Oct 10 | --- | --- | **No talk** |
 | Oct 17 | HUY 2.11-2.14 | Bram Mesland | C\*-algebras of foliations |
 | Oct 24 | DM 0.13 | Olga Lukina |  |
-| Oct 31 | EM 1.17 |  |  |
+| Oct 31 | EM 1.17 | Dimitris Gerontogiannis |  |
 | Nov 07 | DM 0.13 | Malte Leimbach |  |
-| Nov 14 | DM 1.19 |            |  |
+| Nov 14 | DM 1.19 |  |  |
 | Nov 21 | DM 1.15 |  |  |
 | Nov 28 | DM 1.15 |  |  |
 | Dec 05 | DM 1.15 |  |  |
