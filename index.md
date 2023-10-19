@@ -28,7 +28,7 @@ Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/grou
 
 ### Notes
 
-Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Oct 2, 2023.
+Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Oct 19, 2023.
 
 Another version with smaller fonts (10pt by default) and narrower margins (0.8cm) is [here](https://ncg-leiden.github.io/foliation2023/foliation_notes_narrow.pdf).
 
@@ -45,13 +45,12 @@ The exception is October 17, on which day we will be in **Huygens building** 2.1
 | Sep 26 | DM 0.13 | Jack Ekenstam | Lie Groupoids |
 | Oct 03 | --- | --- | **No talk** (Liberation Day)   |
 | Oct 10 | --- | --- | **No talk** |
-| Oct 17 | HUY 2.11-2.14 | Bram Mesland | C\*-algebras of foliations |
+| Oct 17 | HUY 2.11-2.14 | Bram Mesland | The C\*-algebra of a foliation |
 | Oct 24 | DM 0.13 | Olga Lukina |  |
 | Oct 31 | EM 1.17 | Dimitris Gerontogiannis |  |
-| Nov 07 | DM 0.13 | Malte Leimbach |  |
-| Nov 14 | DM 1.19 |  |  |
-| Nov 21 | DM 1.15 |  |  |
-| Nov 28 | DM 1.15 |  |  |
-| Dec 05 | DM 1.15 |  |  |
-| Dec 12 | DM 1.15 |  |  |
-| Dec 19 | DM 0.13 |  |  |
+| Nov 07 | DM 0.13 | --- | **No talk** |
+| Nov 14 | DM 1.19 | Malte Leimbach |  |
+| Nov 21 | DM 1.15 | Bram Mesland | Longitudinal index theorem, I |
+| Nov 28 | DM 1.15 | Yuezhao Li | Longitudinal index theorem, II |
+| Dec 05 | DM 1.15 | Bram Mesland |  |
+| Dec 12 | DM 1.15 | Yuezhao Li |  |
