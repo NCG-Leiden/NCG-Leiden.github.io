@@ -46,7 +46,7 @@ The exception is October 17, on which day we will be in **Huygens building** 2.1
 | Oct 03 | --- | --- | **No talk** (Liberation Day)   |
 | Oct 10 | --- | --- | **No talk** |
 | Oct 17 | HUY 2.11-2.14 | Bram Mesland | The C\*-algebra of a foliation |
-| Oct 24 | DM 0.13 | Olga Lukina |  |
+| Oct 24 | DM 0.13 | Olga Lukina | Translation surfaces and bi-infinite Bratteli diagrams |
 | Oct 31 | EM 1.17 | Dimitris Gerontogiannis |  |
 | Nov 07 | DM 0.13 | --- | **No talk** |
 | Nov 14 | DM 1.19 | Malte Leimbach |  |
