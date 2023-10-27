@@ -28,7 +28,7 @@ Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/grou
 
 ### Notes
 
-Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Oct 20, 2023.
+Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Oct 27, 2023.
 
 Another version with smaller fonts (10pt by default) and narrower margins (0.8cm) is [here](https://ncg-leiden.github.io/foliation2023/foliation_notes_narrow.pdf).
 
