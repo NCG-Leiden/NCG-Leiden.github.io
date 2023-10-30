@@ -36,7 +36,9 @@ Another version with smaller fonts (10pt by default) and narrower margins (0.8cm
 
 Most of the talks will be held in **Gorlaeus building**.
 
-The exception is October 17, on which day we will be in **Huygens building** 2.11-2.14.
+On October 17 we are in **Huygens building** 2.11-2.14.
+
+On October 31 we are in **Gorlaeus lecture hall** C2.
 
 |  Date   | Room | Speaker  |  Topic |
 |  ---  | :-----------  | ----  | -------- |
