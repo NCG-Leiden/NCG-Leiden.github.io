@@ -22,17 +22,17 @@ Snellius Building, Room 408 (mostly, see changes below), from 14:15 to 16:00.
 
 |  Date   | Location | Speaker  |  Topic |
 |  ---  | :----------:  | ----  | -------- |
-| 9.13  | Snellius 401| Yuezhao Li | Motivations, Definitions, and Examples of Groupoids. |
-| 9.20  | Snellius 401| Yufan Ge |  Haar Systems and Convolution Algebras. |
+| 9.13  | Snellius 401| Yuezhao Li | Motivations, Definitions, and Examples of Groupoids |
+| 9.20  | Snellius 401| Yufan Ge |  Haar Systems and Convolution Algebras |
 | 9.27  | -- | -- | No talk |
-| 10.4  | Snellius 401| Jack Ekenstam | Groupoid Actions: part 1. |
-| 10.11 | Snellius 407/409| Bram Mesland | Groupoid Actions: part 2. |
-| 10.18 | Snellius 408| Dimitris Gerontogiannis | The Equivalence Theorem.  |
-| 10.25 | Snellius 408| Bram Mesland | The Equivalence Theorem for Fell Bundles. |
+| 10.4  | Snellius 401| Jack Ekenstam | Groupoid Actions: Part 1 |
+| 10.11 | Snellius 407/409| Bram Mesland | Groupoid Actions: Part 2 |
+| 10.18 | Snellius 408| Dimitris Gerontogiannis | The Equivalence Theorem  |
+| 10.25 | Snellius 408| Bram Mesland | The Equivalence Theorem for Fell Bundles |
 | 11.1 | Snellius 408| -- | Middle Break: Problem Discussion |
 | 11.8 | Snellius 408| Torstein Ulsnaes | Induced Representations |
 | 11.15 | Snellius 408| Malte Leimbach | The Existence and Uniqueness of Haar Systems |
-| 11.22 | Snellius 176| Jack Ekenstam | Inverse Semigroups and Groupoids. |
-| 11.29 | Snellius 408| Yuezhao Li | Tangent Groupoids and Index Theory. |
+| 11.22 | Snellius 176| Jack Ekenstam | Inverse Semigroups and Groupoids |
+| 11.29 | Snellius 408| Yuezhao Li | Tangent Groupoids and Index Theory |
 | 12.6 | Snellius 408| Adam Rennie | Groupoids Suck Slightly More Than Everything Else |
-| 12.13 | Snellius 408| Yufan Ge | Graph Groupoids and Doplicher-Roberts Algebras. |
+| 12.13 | Snellius 408| Yufan Ge | Graph Groupoids and Doplicher-Roberts Algebras |
