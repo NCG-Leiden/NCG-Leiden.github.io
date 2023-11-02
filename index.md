@@ -52,7 +52,7 @@ On October 31 we are in **Gorlaeus lecture hall** C2.
 | Oct 31 | [Lecture hall C2](https://www.universiteitleiden.nl/en/locations/gorlaeus-lecture-hall) | Dimitris Gerontogiannis |  |
 | Nov 07 | DM 0.13 | --- | **No talk** |
 | Nov 14 | DM 1.19 | Malte Leimbach |  |
-| Nov 21 | DM 1.15 |  |  |
+| Nov 21 | DM 1.15 | Yufan Ge |  |
 | Nov 28 | DM 1.15 |  |  |
 | Dec 05 | DM 1.15 |  |  |
 | Dec 12 | DM 1.15 |                         |  |
