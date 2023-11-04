@@ -5,8 +5,6 @@ In 2023 fall semester, we are running a seminar on foliations, focusing on their
 
 Another focus of the seminar is to understand certain foliations arising from dynamical systems. Lindsey and Treviño constructed translation surfaces from bi-infinite Bratteli diagrams using combinatorial methods. These were further studied by Putnam and Treviño with operator algebraic techniques in a recent print. Putnam and Treviño built explicit relations between the  groupoid C\*-algebras constructed from the Bratteli diagram, and the C\*-algebras constructed from suitable foliations on the translation surface. This also allows them to compute the K-theory of the aforementioned C\*-algebras.
 
-An announcement, including some preliminary topics of talks, can be found [here](https://ncg-leiden.github.io/foliation2023/foliation_announcement.pdf) (Last updated: Sep 17, 2023).
-
 ### Date and Location
 **Tuesday 15:15-17:00**. Most of the talks will be in **Gorlaeus building**. The rooms are a little bit hard to hard (see [Science Campus map](https://www.universiteitleiden.nl/binaries/content/assets/science/cm/campusplattegrond-faculty-of-science.pdf?_ga=2.210011805.922390172.1671443107-1639011062.1660081271)). Instead: you may join us from Snellius building at 15:05.
 
@@ -49,12 +47,12 @@ On October 31 we are in **Gorlaeus lecture hall** C2.
 | Oct 10 | --- | --- | **No talk** |
 | Oct 17 | [HUY 2.11-2.14](https://www.universiteitleiden.nl/locaties/huygens) | Bram Mesland | The C\*-algebra of a foliation |
 | Oct 24 | DM 0.13 | Olga Lukina | Translation surfaces and bi-infinite Bratteli diagrams |
-| Oct 31 | [Lecture hall C2](https://www.universiteitleiden.nl/en/locations/gorlaeus-lecture-hall) | Dimitris Gerontogiannis |  |
+| Oct 31 | [Lecture hall C2](https://www.universiteitleiden.nl/en/locations/gorlaeus-lecture-hall) | Dimitris Gerontogiannis | The surface associated with a bi-infinite Bratteli diagram |
 | Nov 07 | DM 0.13 | --- | **No talk** |
 | Nov 14 | DM 1.19 | Malte Leimbach |  |
 | Nov 21 | DM 1.15 | Yufan Ge |  |
-| Nov 28 | DM 1.15 |  |  |
-| Dec 05 | DM 1.15 |  |  |
-| Dec 12 | DM 1.15 |                         |  |
+| Nov 28 | DM 1.15 | NN |  |
+| Dec 05 | DM 1.15 | Bram Mesland | Longitudinal index theorem, I |
+| Dec 12 | DM 1.15 | Yuezhao Li | Longitudinal index theorem, II |
 
-We might continue in January 2024.
+We may continue in January 2024.
