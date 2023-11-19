@@ -26,7 +26,7 @@ Notes from the [groupoid seminar](https://ncg-leiden.github.io/groupoid2022/grou
 
 ### Notes
 
-Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Nov 10, 2023.
+Notes of the talk are available [here](https://ncg-leiden.github.io/foliation2023/foliation_notes.pdf). Last updated: Nov 19, 2023.
 
 Another version with smaller fonts (10pt by default) and narrower margins (0.8cm) is [here](https://ncg-leiden.github.io/foliation2023/foliation_notes_narrow.pdf) (This version is not suggested as I do not concern much with its formatting).
 
@@ -49,9 +49,9 @@ On October 31 we are in **Gorlaeus lecture hall** C2.
 | Oct 24 | DM 0.13 | Olga Lukina | Translation surfaces and bi-infinite Bratteli diagrams |
 | Oct 31 | [Lecture hall C2](https://www.universiteitleiden.nl/en/locations/gorlaeus-lecture-hall) | Dimitris Gerontogiannis | The surface associated with a bi-infinite Bratteli diagram |
 | Nov 07 | DM 0.13 | --- | **No talk** |
-| Nov 14 | DM 1.19 | Malte Leimbach |  |
+| Nov 14 | DM 1.19 | Malte Leimbach | Translation surfaces, groupoids and C\*-algebras |
 | Nov 21 | DM 1.15 | Yufan Ge |  |
-| Nov 28 | DM 1.15 | NN |  |
+| Nov 28 | DM 1.15 | N.N. |  |
 | Dec 05 | DM 1.15 | Bram Mesland | Longitudinal index theorem, I |
 | Dec 12 | DM 1.15 | Yuezhao Li | Longitudinal index theorem, II |
 
