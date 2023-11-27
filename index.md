@@ -51,8 +51,8 @@ On October 31 we are in **Gorlaeus lecture hall** C2.
 | Nov 07 | DM 0.13 | --- | **No talk** |
 | Nov 14 | DM 1.19 | Malte Leimbach | Translation surfaces, groupoids and C\*-algebras |
 | Nov 21 | DM 1.15 | Yufan Ge | Fredholm modules and K-theory of Bratteli diagrams |
-| Nov 28 | DM 1.15 | N.N. |  |
-| Dec 05 | DM 1.15 | Bram Mesland | Longitudinal index theorem, I |
-| Dec 12 | DM 1.15 | Yuezhao Li | Longitudinal index theorem, II |
+| Nov 28 | --- | ---                     | **No talk** |
+| Dec 05 | DM 1.15 | Francesca Arici | Discussion session                                         |
+| Dec 12 | DM 1.15 | N. N. |  |
 
 We may continue in January 2024.
