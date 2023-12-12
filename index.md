@@ -48,7 +48,7 @@ On October 31 we are in **Gorlaeus lecture hall** C2.
 | Oct 17 | [HUY 2.11-2.14](https://www.universiteitleiden.nl/locaties/huygens) | Bram Mesland | The C\*-algebra of a foliation |
 | Oct 24 | DM 0.13 | Olga Lukina | Translation surfaces and bi-infinite Bratteli diagrams |
 | Oct 31 | [Lecture hall C2](https://www.universiteitleiden.nl/en/locations/gorlaeus-lecture-hall) | Dimitris Gerontogiannis | The surface associated with a bi-infinite Bratteli diagram |
-| Nov 07 | DM 0.13 | --- | **No talk** |
+| Nov 07 | --- | --- | **No talk** |
 | Nov 14 | DM 1.19 | Malte Leimbach | Translation surfaces, groupoids and C\*-algebras |
 | Nov 21 | DM 1.15 | Yufan Ge | Fredholm modules and K-theory of Bratteli diagrams |
 | Nov 28 | --- | ---                     | **No talk** |
