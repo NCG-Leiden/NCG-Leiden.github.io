@@ -2,14 +2,27 @@
 
 ## 2024 spring semester
 
-In 2024 spring semester, the noncommutative geometry group of Leiden university is running a local NCG research seminar on Wednesdays from 15:15-16:15. If you want to be added to the mailing list for this seminar, please contact Francesca Arici or Bram Mesland directly.
+In 2024 spring semester, the noncommutative geometry group of Leiden university is running a local NCG research seminar on Wednesdays from 15:15-16:15 at DM 1.19 (New Gorlaeus building).
+
+If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/) or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/).
 
 ---
 
 ## Upcoming talks
 
+7 Feb 2024: **Adam Rennie** (Wollongong)
 
-7 Feb 2024: **Yufan Ge** (Leiden)
+**Title**: Using the Cayley transform to relate van Daele K-theory and KK
+
+**Abstract**: I will start with a warm-up in the (friendly) complex case showing that K_1(A)\cong KK^1(\C,A) via the Cayley transform. Then I will show that the ``same'' thing works in real, Real, graded cases when we start with van Daele K-theory. This will involve some discussion of van Daele K-theory, and how one defines it...which is slightly intricate. 
+
+Why did we want to do all that? Make Kasparov products easy of course!!
+
+Joint work with Chris Bourne and Johannes Kellendonk.
+
+---
+
+14 Feb 2024: **Yufan Ge** (Leiden)
 
 **Title**: SU(2)-symmetries of C*-algebras: from bricks to buildings
 
@@ -17,7 +30,7 @@ In 2024 spring semester, the noncommutative geometry group of Leiden university 
 
 ---
 
-14 Feb 2024: **Dimitris Gerontogiannis** (Leiden, to be confirmed)
+21 Feb 2024: **Dimitris Gerontogiannis** (Leiden --- to be confirmed)
 
 **Title**: TBA
 
@@ -25,15 +38,7 @@ In 2024 spring semester, the noncommutative geometry group of Leiden university 
 
 ---
 
-21 Feb 2024: **Adam Rennie** (Wollongong, to be confirmed)
-
-**Title**: TBA
-
-**Abstract**: TBA
-
----
-
-28 Feb 2024: **Sophie Zegers** (Delft, to be confirmed)
+28 Feb 2024: **Sophie Zegers** (Delft --- to be confirmed)
 
 **Title**: TBA
 
