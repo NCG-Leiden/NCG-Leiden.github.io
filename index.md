@@ -26,7 +26,7 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 
 **Title**: Using the Cayley transform to relate van Daele K-theory and KK
 
-**Abstract**: I will start with a warm-up in the (friendly) complex case showing that $K_1(A)\cong KK^1(\mathbb{C},A)$ via the Cayley transform. Then I will show that the ``same'' thing works in real, Real, graded cases when we start with van Daele K-theory. This will involve some discussion of van Daele K-theory, and how one defines it...which is slightly intricate. 
+**Abstract**: I will start with a warm-up in the (friendly) complex case showing that $K_1(A)\cong KK^1(\mathbb{C},A)$ via the Cayley transform. Then I will show that the “same” thing works in real, Real, graded cases when we start with van Daele K-theory. This will involve some discussion of van Daele K-theory, and how one defines it...which is slightly intricate. 
 
 Why did we want to do all that? Make Kasparov products easy of course!!
 
