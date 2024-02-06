@@ -10,7 +10,7 @@
     </script>
 </head>
 
-# Noncommutative geometry research seminar
+# Noncommutative Geometry Research Seminar
 
 ## 2024 spring semester
 
