@@ -22,13 +22,13 @@ Wednesdays, 15:15-16:15.
 
 ### Room schedule
 
-From 07 Feb to 06 Mar, we will be in Gorlaeus Gebouw DM1.15.
+From 07 Feb to 06 Mar, we will be in Gorlaeus Gebouw DM 1.15.
 
-On 13 Mar, we will be in Gorlaeus Gebouw DM1.19.
+On 13 Mar, we will be in Gorlaeus Gebouw DM 1.19.
 
-On 27 Mar, we will be in Gorlaeus Gebouw DM1.15.
+On 27 Mar, we will be in Gorlaeus Gebouw DM 1.15.
 
-Since 03 Apr, we will be in Gorlaeus Gebouw DM1.19.
+Since 03 Apr, we will be in Gorlaeus Gebouw DM 1.19.
 
 ---
 
