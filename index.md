@@ -60,14 +60,6 @@ Since 03 Apr, we will be in Gorlaeus Gebouw DM 1.19.
 
 ## Previous talks
 
-24 Jan 2024: **Francesca Arici** (Leiden)
-
-**Title**: Some results about the K-theory of C*-algebras of subproduct systems
-
-**Abstract**: In this talk, we will consider subproduct systems of Hilbert spaces and their Toeplitz and Cuntz–Pimsner algebras, and discuss their relation to the theory of polynomials in noncommuting variables. We will provide results about their topological invariants through K(K)-theory and discuss some open problems.
-
----
-
 7 Feb 2024: **Adam Rennie** (Wollongong)
 
 **Title**: Using the Cayley transform to relate van Daele K-theory and KK
@@ -77,3 +69,11 @@ Since 03 Apr, we will be in Gorlaeus Gebouw DM 1.19.
 Why did we want to do all that? Make Kasparov products easy of course!!
 
 Joint work with Chris Bourne and Johannes Kellendonk.
+
+---
+
+24 Jan 2024: **Francesca Arici** (Leiden)
+
+**Title**: Some results about the K-theory of C*-algebras of subproduct systems
+
+**Abstract**: In this talk, we will consider subproduct systems of Hilbert spaces and their Toeplitz and Cuntz–Pimsner algebras, and discuss their relation to the theory of polynomials in noncommuting variables. We will provide results about their topological invariants through K(K)-theory and discuss some open problems.
