@@ -14,25 +14,25 @@
 
 ## 2024 spring semester
 
-In 2024 spring semester, the noncommutative geometry group of Leiden university is running a local NCG research seminar on Wednesdays from 15:15-16:15 at DM 1.19 (New Gorlaeus building).
+In 2024 spring semester, the noncommutative geometry group of Leiden university is running a local NCG research seminar on Wednesdays from 15:15-16:15. If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/) or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/).
 
-If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/) or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/).
+### Date and time
+
+Wednesdays, 15:15-16:15.
+
+### Room schedule
+
+From 07 Feb to 06 Mar, we will be in Gorlaeus Gebouw DM1.15.
+
+On 13 Mar, we will be in Gorlaeus Gebouw DM1.19.
+
+On 27 Mar, we will be in Gorlaeus Gebouw DM1.15.
+
+Since 03 Apr, we will be in Gorlaeus Gebouw DM1.19.
 
 ---
 
 ## Upcoming talks
-
-7 Feb 2024: **Adam Rennie** (Wollongong)
-
-**Title**: Using the Cayley transform to relate van Daele K-theory and KK
-
-**Abstract**: I will start with a warm-up in the (friendly) complex case showing that $K_1(A)\cong KK^1(\mathbb{C},A)$ via the Cayley transform. Then I will show that the “same” thing works in real, Real, graded cases when we start with van Daele K-theory. This will involve some discussion of van Daele K-theory, and how one defines it...which is slightly intricate. 
-
-Why did we want to do all that? Make Kasparov products easy of course!!
-
-Joint work with Chris Bourne and Johannes Kellendonk.
-
----
 
 14 Feb 2024: **Yufan Ge** (Leiden)
 
@@ -42,7 +42,7 @@ Joint work with Chris Bourne and Johannes Kellendonk.
 
 ---
 
-21 Feb 2024: **Dimitris Gerontogiannis** (Leiden --- to be confirmed)
+21 Feb 2024: **Sophie Zegers** (Delft)
 
 **Title**: TBA
 
@@ -50,7 +50,7 @@ Joint work with Chris Bourne and Johannes Kellendonk.
 
 ---
 
-28 Feb 2024: **Sophie Zegers** (Delft --- to be confirmed)
+28 Feb 2024: **Dimitris Gerontogiannis** (Leiden)
 
 **Title**: TBA
 
@@ -65,3 +65,15 @@ Joint work with Chris Bourne and Johannes Kellendonk.
 **Title**: Some results about the K-theory of C*-algebras of subproduct systems
 
 **Abstract**: In this talk, we will consider subproduct systems of Hilbert spaces and their Toeplitz and Cuntz–Pimsner algebras, and discuss their relation to the theory of polynomials in noncommuting variables. We will provide results about their topological invariants through K(K)-theory and discuss some open problems.
+
+---
+
+7 Feb 2024: **Adam Rennie** (Wollongong)
+
+**Title**: Using the Cayley transform to relate van Daele K-theory and KK
+
+**Abstract**: I will start with a warm-up in the (friendly) complex case showing that $K_1(A)\cong KK^1(\mathbb{C},A)$ via the Cayley transform. Then I will show that the “same” thing works in real, Real, graded cases when we start with van Daele K-theory. This will involve some discussion of van Daele K-theory, and how one defines it...which is slightly intricate. 
+
+Why did we want to do all that? Make Kasparov products easy of course!!
+
+Joint work with Chris Bourne and Johannes Kellendonk.
