@@ -31,6 +31,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 **Abstract**: In this talk, we will consider subproduct systems coming from SU(2)-representations and discuss the associated C*-algebras. We will first review results concerning irreducible representations from Arici--Kaad, then provide some further results about more general cases. More specifically, we will discuss the structure of the SU(2)- subproduct systems associated to isotypic representations and multiplicity-free representations. Finally, we will provide results about the K-theory groups of their Toeplitz algebras. This is joint work in progress with Francesca Arici.
 
 **Place and time**: DM 1.15. 15:15-16:15. 
+
 ---
 
 21 Feb 2024: **Sophie Zegers** (Delft)
