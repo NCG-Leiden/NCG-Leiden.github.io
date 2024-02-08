@@ -18,17 +18,7 @@ In 2024 spring semester, the noncommutative geometry group of Leiden university 
 
 ### Date and time
 
-Wednesdays, 15:15-16:15.
-
-### Room schedule
-
-From 07 Feb to 06 Mar, we will be in Gorlaeus Gebouw DM 1.15.
-
-On 13 Mar, we will be in Gorlaeus Gebouw DM 1.19.
-
-On 27 Mar, we will be in Gorlaeus Gebouw DM 1.15.
-
-Since 03 Apr, we will be in Gorlaeus Gebouw DM 1.19.
+Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ---
 
@@ -55,6 +45,17 @@ Since 03 Apr, we will be in Gorlaeus Gebouw DM 1.19.
 **Title**: TBA
 
 **Abstract**: TBA
+
+---
+### Room schedule
+
+From 07 Feb to 06 Mar, we will be in Gorlaeus Gebouw DM 1.15.
+
+On 13 Mar, we will be in Gorlaeus Gebouw DM 1.19.
+
+On 27 Mar, we will be in Gorlaeus Gebouw DM 1.15.
+
+Since 03 Apr, we will be in Gorlaeus Gebouw DM 1.19.
 
 ---
 
