@@ -1,5 +1,5 @@
 # Noncommutative Geometry Reading Seminar
-## Topic for September-December 2022: Groupoid C*-algebras
+## 2022 Fall: Groupoid C*-algebras
 
 In the 2022 fall semester, we were running a seminar on Groupoids and C*-algebras. 
 
@@ -13,7 +13,7 @@ We followed the text book ___A Tool Kit for Groupoid C*-algebras___ in the first
 
 For more information, please contact y.ge@math.leidenuniv.nl
 
-The note of this seminar can be found [here](./groupoid_notes.pdf). Last updated: 9.12.2023.
+The note of this seminar can be found [here](./groupoid_notes.pdf). Last updated: 7.2.2024.
 
 ### Location:
 Snellius Building, Room 408 (mostly, see changes below), from 14:15 to 16:00.
