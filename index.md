@@ -73,6 +73,8 @@ Why did we want to do all that? Make Kasparov products easy of course!!
 
 Joint work with Chris Bourne and Johannes Kellendonk.
 
+**Place and time**: DM 1.15. 15:15-16:15. 
+
 ---
 
 24 Jan 2024: **Francesca Arici** (Leiden)
@@ -80,3 +82,5 @@ Joint work with Chris Bourne and Johannes Kellendonk.
 **Title**: Some results about the K-theory of C*-algebras of subproduct systems
 
 **Abstract**: In this talk, we will consider subproduct systems of Hilbert spaces and their Toeplitz and Cuntz–Pimsner algebras, and discuss their relation to the theory of polynomials in noncommuting variables. We will provide results about their topological invariants through K(K)-theory and discuss some open problems.
+
+**Place and time**: DM 1.19. **15:30-16:30**. 
