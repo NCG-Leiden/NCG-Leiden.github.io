@@ -36,9 +36,9 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 21 Feb 2024: **Sophie Zegers** (Delft)
 
-**Title**: TBA
+**Title**: Split extensions and KK-equivalences for quantum flag manifolds
 
-**Abstract**: TBA
+**Abstract**: In this talk, I will first present the explicit KK-equivalence between $C(\mathbb{C}P_q^n)$ and the commutative algebra $\mathbb{C}^{n+1}$ constructed in collaboration with Francesca Arici. The KK-equivalence is constructed by finding an explicit splitting for the short exact sequence of $C^*$-algebras $\mathcal{K}\to C(\mathbb{C}P_q^n)\to C(\mathbb{C}P_q^{n-1})$. In the construction of a splitting it is crucial that $C(\mathbb{C}P_q^n)$ can be described as a graph $C^*$-algebra. Secondly, I will present how this approach can be used to construct KK-equivalences in the more general framework of quantum flag manifolds which is based on ongoing work with Réamonn Ó Buachalla and Karen Strung.  
 
 **Place and time**: DM 1.15. 15:15-16:15. 
 
