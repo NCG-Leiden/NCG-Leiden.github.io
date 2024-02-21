@@ -24,26 +24,6 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-14 Feb 2024: **Yufan Ge** (Leiden)
-
-**Title**: SU(2)-symmetries of C*-algebras: from bricks to buildings
-
-**Abstract**: In this talk, we will consider subproduct systems coming from SU(2)-representations and discuss the associated C*-algebras. We will first review results concerning irreducible representations from Arici--Kaad, then provide some further results about more general cases. More specifically, we will discuss the structure of the SU(2)- subproduct systems associated to isotypic representations and multiplicity-free representations. Finally, we will provide results about the K-theory groups of their Toeplitz algebras. This is joint work in progress with Francesca Arici.
-
-**Place and time**: DM 1.15. 15:15-16:15. 
-
----
-
-21 Feb 2024: **Sophie Zegers** (Delft)
-
-**Title**: Split extensions and KK-equivalences for quantum flag manifolds
-
-**Abstract**: In this talk, I will first present the explicit KK-equivalence between $C(\mathbb{C}P_q^n)$ and the commutative algebra $\mathbb{C}^{n+1}$ constructed in collaboration with Francesca Arici. The KK-equivalence is constructed by finding an explicit splitting for the short exact sequence $\mathcal{K}\to C(\mathbb{C}P_q^n)\to C(\mathbb{C}P_q^{n-1})$. In the construction of a splitting it is crucial that $C(\mathbb{C}P_q^n)$ can be described as a graph algebra. Secondly, I will present how this approach can be used to construct KK-equivalences in the more general framework of quantum flag manifolds which is based on ongoing work with Réamonn Ó Buachalla and Karen Strung.  
-
-**Place and time**: DM 1.15. 15:15-16:15. 
-
----
-
 28 Feb 2024: **Dimitris Gerontogiannis** (Leiden)
 
 **Title**: TBA
@@ -62,6 +42,26 @@ From 03 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
 ---
 
 ## Previous talks
+
+21 Feb 2024: **Sophie Zegers** (Delft)
+
+**Title**: Split extensions and KK-equivalences for quantum flag manifolds
+
+**Abstract**: In this talk, I will first present the explicit KK-equivalence between $C(\mathbb{C}P_q^n)$ and the commutative algebra $\mathbb{C}^{n+1}$ constructed in collaboration with Francesca Arici. The KK-equivalence is constructed by finding an explicit splitting for the short exact sequence $\mathcal{K}\to C(\mathbb{C}P_q^n)\to C(\mathbb{C}P_q^{n-1})$. In the construction of a splitting it is crucial that $C(\mathbb{C}P_q^n)$ can be described as a graph algebra. Secondly, I will present how this approach can be used to construct KK-equivalences in the more general framework of quantum flag manifolds which is based on ongoing work with Réamonn Ó Buachalla and Karen Strung.  
+
+**Place and time**: DM 1.15. 15:15-16:15. 
+
+---
+
+14 Feb 2024: **Yufan Ge** (Leiden)
+
+**Title**: SU(2)-symmetries of C*-algebras: from bricks to buildings
+
+**Abstract**: In this talk, we will consider subproduct systems coming from SU(2)-representations and discuss the associated C*-algebras. We will first review results concerning irreducible representations from Arici--Kaad, then provide some further results about more general cases. More specifically, we will discuss the structure of the SU(2)- subproduct systems associated to isotypic representations and multiplicity-free representations. Finally, we will provide results about the K-theory groups of their Toeplitz algebras. This is joint work in progress with Francesca Arici.
+
+**Place and time**: DM 1.15. 15:15-16:15. 
+
+---
 
 7 Feb 2024: **Adam Rennie** (Wollongong)
 
