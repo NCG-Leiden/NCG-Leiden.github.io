@@ -27,9 +27,9 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 28 Feb 2024: **Dimitris Gerontogiannis** (Leiden)
 
 **Title**: KK-duality for Temperley-Lieb subproduct systems 
- 
-**Abstract**: The notion of KK-duality generalises Spanier-Whitehead duality in the noncommutative setting of C*-algebras. As C*-algebras are noncommutative topological spaces in view of the Gelfand duality, C*-algebras with KK-duals can be thought of as noncommutative manifolds. Therefore, a main utility of KK-duality is that it makes it possible to study C*-algebras by more classical analytic methods. Interestingly, several C*-algebras associated to dynamical systems appear to have KK-duals. This talk is about the KK-duality of Cuntz-Pimsner algebras associated to Temperley-Lieb subproduct systems, a class of C*-algebras with rich quantum group symmetries and relations to topological Markov chains. This is joint work with Francesca Arici (Leiden) and Sergey Neshveyev (Oslo). 
- 
+
+**Abstract**: The notion of KK-duality generalises Spanier-Whitehead duality in the noncommutative setting of C\*-algebras. As C\*-algebras are noncommutative topological spaces in view of the Gelfand duality, C\*-algebras with KK-duals can be thought of as noncommutative manifolds. Therefore, a main utility of KK-duality is that it makes it possible to study C\*-algebras by more classical analytic methods. Interestingly, several C\*-algebras associated to dynamical systems appear to have KK-duals. This talk is about the KK-duality of Cuntz-Pimsner algebras associated to Temperley-Lieb subproduct systems, a class of C\*-algebras with rich quantum group symmetries and relations to topological Markov chains. This is joint work with Francesca Arici (Leiden) and Sergey Neshveyev (Oslo). 
+
 
 **Place and time**: DM 1.15. 15:15-16:15. 
 
@@ -39,9 +39,9 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 **Title**: Equivariant Spectral Flow for Families of Dirac-type 
 Operators
- 
+
 **Abstract**: TBA
- 
+
 **Place and time**: DM 1.19. 15:15-16:15. 
 
 
