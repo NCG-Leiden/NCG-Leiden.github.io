@@ -42,7 +42,6 @@ Operators
  
 **Abstract**: TBA
  
-
 **Place and time**: DM 1.19. 15:15-16:15. 
 
 
