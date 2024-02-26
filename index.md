@@ -33,6 +33,19 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 **Place and time**: DM 1.15. 15:15-16:15. 
 
+--
+
+13 Mar 2024: **Aquerman Kuczmenda Yaness** (Radboud Universiteit)
+
+**Title**: Equivariant Spectral Flow for Families of Dirac-type 
+Operators
+ 
+**Abstract**: TBA
+ 
+
+**Place and time**: DM 1.19. 15:15-16:15. 
+
+
 ---
 ### Room schedule
 
