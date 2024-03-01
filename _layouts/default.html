@@ -1,30 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  {% seo %}
-  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-  <!--[if lt IE 9]>
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  {% include head-custom.html %}
-  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-</head>
-
-<body>
-  <div class="wrapper">
-    <header>
-      <img src="https://ncg-leiden.github.io/leiden-university.png" alt="Logo" />
-      <h1> <a href="https://ncg-leiden.github.io/"> NCG-Leiden </a> </h1>
-
-      <h2> Seminars </h2>
-      <dl>
+    {% include head-custom.html %}
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img src="https://ncg-leiden.github.io/leiden-university.png" alt="Logo" />
+        <h1> <a href="https://ncg-leiden.github.io/"> NCG-Leiden </a> </h1>
+        
+        <h2> Seminars </h2>
+        
+        <dl>
         <dt>2024 spring</dt>
         <dd>- <a href="https://ncg-leiden.github.io/">Research seminar</a></dd>
+                  <dd>- <a href="https://ncg-leiden.github.io/connections2024">Lectures on Noncommutative Connections</a></dd>
         <dt>2023 fall</dt>
         <dd>- <a href="https://ncg-leiden.github.io/foliation2023">Foliations</a></dd>
         <dt>2022 fall</dt>
@@ -32,10 +32,10 @@
         <dt>2022 spring</dt>
         <dd>- <a href="https://ncg-leiden.github.io/kk2022/">K(K)-Theory</a></dd>
         <dt>2021 fall</dt>
-        <dd>- <a href="https://pub.math.leidenuniv.nl/~aricif2/ncg_seminar.html">Deformation Quantization and Index
-            Theory</a></dd>
-
+        <dd>- <a href="https://pub.math.leidenuniv.nl/~aricif2/ncg_seminar.html">Deformation Quantization and Index Theory</a></dd>
+          
         <br />
+<<<<<<< HEAD
 
         <h2> Mini-courses </h2>
 
@@ -53,6 +53,16 @@
           </dd>
           <dt>2022 fall</dt>
           <dd>- <a href="https://ncg-leiden.github.io/ncgday2022">NCG Day 2022</a></dd>
+=======
+        <br />
+        <h2> Workshops</h2> 
+          
+        <dl>
+        <dt>2023 spring</dt>
+        <dd>- <a href="https://pub.math.leidenuniv.nl/~aricif2/goal2023.html">Geometry and Operator ALgebras 2023</a></dd>
+        <dt>2022 fall</dt>
+        <dd>- <a href="https://ncg-leiden.github.io/ncgday2022">NCG Day 2022</a></dd>
+>>>>>>> parent of 76808d3 (Update default.html)
         </dl>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -65,19 +75,18 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-    </header>
-    <section>
+      </header>
+      <section>
 
       {{ content }}
 
-    </section>
-    <footer>
-      {% if site.github.is_project_page %}
-      <p>This project is maintained by Noncommutative Geometry group of Leiden University</p>
-      {% endif %}
-    </footer>
-  </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
-</body>
-
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by Noncommutative Geometry group of Leiden University</p>
+        {% endif %}
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
 </html>
