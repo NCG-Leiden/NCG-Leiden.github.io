@@ -16,7 +16,7 @@ On December 2nd, 2022 we will have a small workshop at Leiden University on Nonc
 
 The event will take place in the new Gorlaeus Building room DM021PC, from 9:30-17:00. 
 
-### Programme
+## Programme
 
 9:30 - 10:15: Prof. dr. Walter van Suijlekom (Nijmegen), __Noncommutative spaces at finite resolution__
 
@@ -31,7 +31,7 @@ The event will take place in the new Gorlaeus Building room DM021PC, from 9:30-1
 16:15-17:00: Dr. Peter Hochs (Nijmegen), __C*-algebras of symmetric spaces__
 
 
-### Abstracts
+## Abstracts
 
 Walter van Suijlekom, __Noncommutative geometry at finite resolution__
 
