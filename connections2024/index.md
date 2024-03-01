@@ -1,8 +1,8 @@
-## Noncommutative Geometry Seminar
+# Mini-course: connections and curvatures in noncommutative geometry
 
-## Spring 2024
+## 2024 Spring
 
-In the spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course on Connections and Curvature in NCG. Lectures will take place on Tuesdays from 15.15 to 17.00
+In 2024 spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course on **connections and curvatures in noncommutative geometry**. Lectures will take place on Tuesdays from 15.15 to 17.00
 
 |  Date   | Room | 
 | Mar 5 | Snel 4.01 |
