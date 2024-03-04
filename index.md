@@ -12,7 +12,7 @@
 
 # Noncommutative Geometry Research Seminar
 
-## 2024 spring semester
+## 2024 Spring
 
 In 2024 spring semester, the noncommutative geometry group of Leiden university is running a local NCG research seminar on Wednesdays from 15:15-16:15. If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/) or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/).
 
