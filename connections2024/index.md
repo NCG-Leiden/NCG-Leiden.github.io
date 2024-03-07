@@ -9,8 +9,6 @@ In 2024 spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course 
 | Mar 12 | Snellius 4.01 |
 | Mar 19 | New Gorlaeus BM 2.26 | 
 
----
-
 ## Outline
 
 ### Lecture 1
