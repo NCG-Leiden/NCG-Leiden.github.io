@@ -8,3 +8,15 @@ In 2024 spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course 
 | Mar 5 | Snellius 4.01 |
 | Mar 12 | Snellius 4.01 |
 | Mar 19 | New Gorlaeus BM 2.26 | 
+
+---
+
+## Outline
+
+### Lecture 1
+
+- 1st-order differential calculus of a spectral triple, connections.
+- The abstract picture and the universal differential calculus, its failure.
+- The junk forms
+- 2nd-order differential calculus of a spectral triple, curvatures.
+- Non-junk factoid.

@@ -24,15 +24,6 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-6 Mar 2024: **Teun van Nuland** (TU Delft)
-
-**Title**: Multiple operator integrals and the abstract pseudodifferential calculus of Connes and Moscovici
-
-**Abstract**: Multiple operator integrals (MOIs) appear in various areas of noncommutative geometry, like the theories of cyclic cohomology (cf. the JLO-cocycle), spectral flow, spectral shift, the spectral action, and heat trace asymptotics. Recognizing MOIs where they appear 'undercover' enables a unified view, and often leads to new connections and generalizations. However, sometimes the integral expressions that you want to uncover as MOIs are unbounded, which does not match the traditional MOI formalism as developed by Peller in 2006. Our proposed solution is to merge multiple operator integration with the abstract pseudodifferential calculus of Connes and Moscovici.Based on ongoing joint work with Eva-Maria Hekkelman and Edward McDonald.
-
-**Place and time**: DM 1.15. 15:15-16:15. 
-
-
 13 Mar 2024: **Aquerman Kuczmenda Yanes** (Radboud Universiteit Nijmegen)
 
 **Title**: Equivariant Spectral Flow for Families of Dirac-type Operators
@@ -53,6 +44,16 @@ From 03 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
 
 ## Previous talks
 
+6 Mar 2024: **Teun van Nuland** (TU Delft)
+
+**Title**: Multiple operator integrals and the abstract pseudodifferential calculus of Connes and Moscovici
+
+**Abstract**: Multiple operator integrals (MOIs) appear in various areas of noncommutative geometry, like the theories of cyclic cohomology (cf. the JLO-cocycle), spectral flow, spectral shift, the spectral action, and heat trace asymptotics. Recognizing MOIs where they appear 'undercover' enables a unified view, and often leads to new connections and generalizations. However, sometimes the integral expressions that you want to uncover as MOIs are unbounded, which does not match the traditional MOI formalism as developed by Peller in 2006. Our proposed solution is to merge multiple operator integration with the abstract pseudodifferential calculus of Connes and Moscovici.Based on ongoing joint work with Eva-Maria Hekkelman and Edward McDonald.
+
+**Place and time**: DM 1.15. 15:15-16:15. 
+
+---
+
 28 Feb 2024: **Dimitris Gerontogiannis** (Leiden)
 
 **Title**: KK-duality for Temperley-Lieb subproduct systems 
@@ -63,7 +64,7 @@ From 03 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
 
 ---
 
-21 Feb 2024: **Sophie Zegers** (Delft)
+21 Feb 2024: **Sophie Zegers** (TU Delft)
 
 **Title**: Split extensions and KK-equivalences for quantum flag manifolds
 
