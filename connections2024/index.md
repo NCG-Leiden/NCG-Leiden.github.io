@@ -17,6 +17,6 @@ In 2024 spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course 
 
 - 1st-order differential calculus of a spectral triple, connections.
 - The abstract picture and the universal differential calculus, its failure.
-- The junk forms
+- The junk forms.
 - 2nd-order differential calculus of a spectral triple, curvatures.
 - Non-junk factoid.
