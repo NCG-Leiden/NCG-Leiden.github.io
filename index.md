@@ -28,7 +28,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 **Title**: Equivariant Spectral Flow for Families of Dirac-type Operators
 
-**Abstract**: TBA
+**Abstract**: In this talk we show how to construct an equivariant version of spectral flow for paths of Dirac-type operators in the setting of a proper, cocompact action by a locally compact, unimodular group $G$ on a Riemannian manifold. This takes values in the $K$-theory of the group $C^*$-algebra of $G$. Our goal is to show that our equivariant spectral flow refines classical spectral in the case where $G$ is the fundamentalg roup of a compact manifold. If time permits, we look into its relationship with higher index theory and secondary invariants. Joint work with Peter Hochs.
 
 **Place and time**: DM 1.19. 15:15-16:15. 
 
