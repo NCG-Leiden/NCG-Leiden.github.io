@@ -18,3 +18,11 @@ In 2024 spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course 
 - The junk forms.
 - 2nd-order differential calculus of a spectral triple, curvatures.
 - Non-junk factoid.
+
+### Lecture 2
+
+- Dagger bimodules, frames, left/right adjointable operators.
+- Index lowering and raising with daggers.
+- Connections on dagger bimodules, Hermitian connections, Graßmann connections, conjugate connections.
+- Torsion.
+- Torsion-free and Hermitian connections.
