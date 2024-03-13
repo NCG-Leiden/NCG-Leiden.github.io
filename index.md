@@ -24,6 +24,39 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
+20 Mar 2024: **Bram Melsand** (Leiden)
+
+**Title**: TBA
+
+**Abstract**: TBA
+**Place and time**: DM 1.15. 15:15-16:15. 
+
+---
+
+27 Mar 2024: **Ada Masters** (Wollongong)
+
+**Title**: TBA
+
+**Abstract**: TBA
+
+**Place and time**: DM 1.15. 15:15-16:15. 
+
+---
+
+3 April 2024: **No talks due to Dutch Mathematical Congress**
+
+---
+### Room schedule
+
+From 07 Feb to 27 Mar, we will be in Gorlaeus Gebouw DM 1.15, except for March 13th, when we will be in DM 1.19.
+
+From 10 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
+
+---
+
+## Previous talks
+
+
 13 Mar 2024: **Aquerman Kuczmenda Yanes** (Radboud Universiteit Nijmegen)
 
 **Title**: Equivariant Spectral Flow for Families of Dirac-type Operators
@@ -32,17 +65,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 **Place and time**: DM 1.19. 15:15-16:15. 
 
-
 ---
-### Room schedule
-
-From 07 Feb to 27 Mar, we will be in Gorlaeus Gebouw DM 1.15, except for March 13th, when we will be in DM 1.19.
-
-From 03 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
-
----
-
-## Previous talks
 
 6 Mar 2024: **Teun van Nuland** (TU Delft)
 
