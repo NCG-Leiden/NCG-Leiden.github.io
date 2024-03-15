@@ -24,7 +24,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-20 Mar 2024: **Bram Melsand** (Leiden)
+20 Mar 2024: **Bram Mesland** (Leiden)
 
 **Title**: TBA
 
