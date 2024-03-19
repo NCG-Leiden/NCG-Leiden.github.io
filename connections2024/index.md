@@ -33,5 +33,5 @@ In 2024 spring semester, Prof. Adam Rennie (Wollongong) will give a mini-course 
 - Concordant Hermitian differential structures.
 - Bram Mesland's condition for dagger-concordance. Uniqueness of the Levi-Civita connection.
 - Uniqueness of the Levi-Civita connection.
-- Braiding, "real" forms, dagger-bimodule connections.
+- Braidings, "real" forms, dagger-bimodule connections.
 - Example: the Podleś sphere.
