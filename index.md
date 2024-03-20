@@ -30,7 +30,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 **Abstract**: In his foundational work on rings of operators, John von Neumann proved that given two projections P,Q on a Hilbert space, the sequence (PQ)^n converges in the \*-strong topology to the projection onto the intersection of the ranges of P and Q. The finer convergence properties of the sequence (PQ)^n are detected by a numerical invariant called the Friedrichs angle between P and Q. In this talk I will discuss the generalization of this problem to the setting of Hilbert C\*-modules, where various technicalities present itself. The main issue is the fact that the intersection of complemented submodules need not be complemented. Due to this issue, von Neumann’s convergence result does not hold for an arbitrary pair of projections, and the Friedrichs angle cannot be straightforwardly defined. A definition of the Friedrichs angle can be obtained using the local-global principle for Hilbert modules, and yields an invariant that effectively detects the properties of the sequence (PQ)^n. I will discuss (counter)examples and interpretations of this result in noncommutiative geometry.
 
-**Place and time**: DM 1.15. 15:15-16:15. 
+**Place and time**: **Snellius 3.12**. 15:15-16:15. 
 
 ---
 
