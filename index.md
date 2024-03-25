@@ -24,21 +24,15 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-20 Mar 2024: **Bram Mesland** (Leiden)
 
-**Title**: The Friedrichs angle and alternating projections in Hilbert C\*-modules
-
-**Abstract**: In his foundational work on rings of operators, John von Neumann proved that given two projections P,Q on a Hilbert space, the sequence (PQ)^n converges in the \*-strong topology to the projection onto the intersection of the ranges of P and Q. The finer convergence properties of the sequence (PQ)^n are detected by a numerical invariant called the Friedrichs angle between P and Q. In this talk I will discuss the generalization of this problem to the setting of Hilbert C\*-modules, where various technicalities present itself. The main issue is the fact that the intersection of complemented submodules need not be complemented. Due to this issue, von Neumann’s convergence result does not hold for an arbitrary pair of projections, and the Friedrichs angle cannot be straightforwardly defined. A definition of the Friedrichs angle can be obtained using the local-global principle for Hilbert modules, and yields an invariant that effectively detects the properties of the sequence (PQ)^n. I will discuss (counter)examples and interpretations of this result in noncommutiative geometry.
-
-**Place and time**: **Snellius 3.12**. 15:15-16:15. 
 
 ---
 
 27 Mar 2024: **Ada Masters** (Wollongong)
 
-**Title**: TBA
+**Title**: Conformal geometry, dynamics, and equivariance in unbounded KK-theory
 
-**Abstract**: TBA
+**Abstract**: I will discuss the problem of representing dynamical systems in unbounded KK-theory, one of the main technical devices of noncommutative geometry. In the development of unbounded KK-theory, an aspect which has been left unresolved is the definition of equivariance. One reason for this is that the natural definition fails to capture all the degrees of freedom available in the usual, bounded equivariant KK-theory. This is apparent already in the classical, commutative, case, as we shall see. In light of the forgoing, conformal geometry will be briefly introduced and I will discuss the definition of conformally equivariant unbounded KK-theory. I will also touch on ongoing work which uses these tools to analyse more general dynamical systems.
 
 **Place and time**: DM 1.15. 15:15-16:15. 
 
@@ -57,6 +51,15 @@ From 10 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
 
 ## Previous talks
 
+20 Mar 2024: **Bram Mesland** (Leiden)
+
+**Title**: The Friedrichs angle and alternating projections in Hilbert C\*-modules
+
+**Abstract**: In his foundational work on rings of operators, John von Neumann proved that given two projections P,Q on a Hilbert space, the sequence (PQ)^n converges in the \*-strong topology to the projection onto the intersection of the ranges of P and Q. The finer convergence properties of the sequence (PQ)^n are detected by a numerical invariant called the Friedrichs angle between P and Q. In this talk I will discuss the generalization of this problem to the setting of Hilbert C\*-modules, where various technicalities present itself. The main issue is the fact that the intersection of complemented submodules need not be complemented. Due to this issue, von Neumann’s convergence result does not hold for an arbitrary pair of projections, and the Friedrichs angle cannot be straightforwardly defined. A definition of the Friedrichs angle can be obtained using the local-global principle for Hilbert modules, and yields an invariant that effectively detects the properties of the sequence (PQ)^n. I will discuss (counter)examples and interpretations of this result in noncommutiative geometry.
+
+**Place and time**: **Snellius 3.12**. 15:15-16:15. 
+
+---
 
 13 Mar 2024: **Aquerman Kuczmenda Yanes** (Radboud Universiteit Nijmegen)
 
