@@ -28,17 +28,33 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ---
 
-27 Mar 2024: **Ada Masters** (Wollongong)
+1 May 2024: **TBA**
 
-**Title**: Conformal geometry, dynamics, and equivariance in unbounded KK-theory
+**Title**: TBA
 
-**Abstract**: I will discuss the problem of representing dynamical systems in unbounded KK-theory, one of the main technical devices of noncommutative geometry. In the development of unbounded KK-theory, an aspect which has been left unresolved is the definition of equivariance. One reason for this is that the natural definition fails to capture all the degrees of freedom available in the usual, bounded equivariant KK-theory. This is apparent already in the classical, commutative, case, as we shall see. In light of the forgoing, conformal geometry will be briefly introduced and I will discuss the definition of conformally equivariant unbounded KK-theory. I will also touch on ongoing work which uses these tools to analyse more general dynamical systems.
+**Abstract**: TBA
 
-**Place and time**: DM 1.15. 15:15-16:15. 
+**Place and time**: DM 1.19. 15:15-16:15. 
 
 ---
 
-3 April 2024: **No talks due to Dutch Mathematical Congress**
+8 May 2024: **TBA**
+
+**Title**: TBA
+
+**Abstract**: TBA
+
+**Place and time**: DM 1.19. 15:15-16:15. 
+
+---
+
+29 May 2024: **Bram Mesland (Leiden)** TBC
+
+**Title**: TBA
+
+**Abstract**: TBA
+
+**Place and time**: DM 1.19. 15:15-16:15. 
 
 ---
 ### Room schedule
@@ -50,6 +66,16 @@ From 10 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
 ---
 
 ## Previous talks
+
+27 Mar 2024: **Ada Masters** (Wollongong)
+
+**Title**: Conformal geometry, dynamics, and equivariance in unbounded KK-theory
+
+**Abstract**: I will discuss the problem of representing dynamical systems in unbounded KK-theory, one of the main technical devices of noncommutative geometry. In the development of unbounded KK-theory, an aspect which has been left unresolved is the definition of equivariance. One reason for this is that the natural definition fails to capture all the degrees of freedom available in the usual, bounded equivariant KK-theory. This is apparent already in the classical, commutative, case, as we shall see. In light of the forgoing, conformal geometry will be briefly introduced and I will discuss the definition of conformally equivariant unbounded KK-theory. I will also touch on ongoing work which uses these tools to analyse more general dynamical systems.
+
+**Place and time**: DM 1.15. 15:15-16:15. 
+
+---
 
 20 Mar 2024: **Bram Mesland** (Leiden)
 
