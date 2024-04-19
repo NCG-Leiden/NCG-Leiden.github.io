@@ -57,13 +57,6 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 **Place and time**: DM 1.19. 15:15-16:15. 
 
 ---
-### Room schedule
-
-From 07 Feb to 27 Mar, we will be in Gorlaeus Gebouw DM 1.15, except for March 13th, when we will be in DM 1.19.
-
-From 10 Apr onwards, we will be in Gorlaeus Gebouw DM 1.19.
-
----
 
 ## Previous talks
 
