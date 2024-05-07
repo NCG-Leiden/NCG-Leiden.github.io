@@ -24,31 +24,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-
-
----
-
-1 May 2024: **TBA**
-
-**Title**: TBA
-
-**Abstract**: TBA
-
-**Place and time**: DM 1.19. 15:15-16:15. 
-
----
-
-8 May 2024: **TBA**
-
-**Title**: TBA
-
-**Abstract**: TBA
-
-**Place and time**: DM 1.19. 15:15-16:15. 
-
----
-
-29 May 2024: **Bram Mesland (Leiden)** TBC
+29 May 2024: **Bram Mesland** (Leiden, TBC)
 
 **Title**: TBA
 
@@ -59,6 +35,14 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 ---
 
 ## Previous talks
+
+1 May 2024: **Torstein Ulsnaes** （Leiden & SISSA)
+
+**Title**: Boundary extensions of symmetric spaces and their KK-cycles
+
+**Place and time**: DM 1.19. 15:15-16:15. 
+
+---
 
 27 Mar 2024: **Ada Masters** (Wollongong)
 
