@@ -7,7 +7,7 @@ In 2024 spring semester, Prof. Adam Rennie (Wollongong) gave a mini-course on **
 - B. Mesland and A. Rennie, [*Existence and uniqueness of the Levi-Civita connection on noncommutative differential forms*](https://arxiv.org/abs/2403.13735).
 - B. Mesland and A. Rennie, [*Curvature and Weitzenbock formula for spectral triples*](https://arxiv.org/abs/2404.07957).
 
-Lectures will take place on Tuesdays from 15.15 to 17.00
+Lectures took place on Tuesdays from 15.15 to 17.00
 
 |  Date   | Room | 
 | Mar 5 | Snellius 4.01 |
