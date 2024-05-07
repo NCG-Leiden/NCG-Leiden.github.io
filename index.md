@@ -36,7 +36,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Previous talks
 
-1 May 2024: **Torstein Ulsnaes** （Leiden & SISSA)
+1 May 2024: **Torstein Ulsnaes** (Leiden & SISSA)
 
 **Title**: Boundary extensions of symmetric spaces and their KK-cycles
 
