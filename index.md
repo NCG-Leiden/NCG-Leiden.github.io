@@ -24,14 +24,6 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-29 May 2024: **Bram Mesland** (Leiden, TBC)
-
-**Title**: TBA
-
-**Abstract**: TBA
-
-**Place and time**: DM 1.19. 15:15-16:15. 
-
 ---
 
 ## Previous talks
