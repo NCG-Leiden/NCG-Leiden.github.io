@@ -24,6 +24,14 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
+14 Jun 2024 (**Friday**): **Dimitris M. Gerontogiannis** (Leiden)
+
+**Title**: Heat operators and isometry groups on Cuntz–Krieger algebras
+
+**Abstract**: In this talk, we explore the heat semigroups of Cuntz–Krieger algebras using spectral noncommutative geometry. The key tool is the logarithmic Dirichlet Laplacian for Ahlfors regular metric-measure spaces, which produces spectral triples on Cuntz–Krieger algebras from singular integral operators. These spectral triples exhaust the K-homology and for Cuntz algebras their heat operators turn out to be Riesz potential operators. Moreover, the isometry groups of the spectral triples admit a concrete description and encode the symmetries of the associated directed graph of the Cuntz–Krieger algebra. Finally, Voiculescu's noncommutative topological entropy vanishes on those isometry groups. This is joint work with Magnus Goffeng (Lund) and Bram Mesland (Leiden).
+
+**Place and time**: **Snellius 174** (TBC), 15:00.
+
 ---
 
 ## Previous talks
