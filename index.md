@@ -24,7 +24,7 @@ Wednesdays, 15:15-16:15. Room: DM 1.15 or DM 1.19, as indicated below.
 
 ## Upcoming talks
 
-14 Jun 2024 (**Friday**): **Dimitris M. Gerontogiannis** (Leiden)
+14 Jun 2024 (Friday, unusual time!): **Dimitris M. Gerontogiannis** (Leiden)
 
 **Title**: Heat operators and isometry groups on Cuntz–Krieger algebras
 
