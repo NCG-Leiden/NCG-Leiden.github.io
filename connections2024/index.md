@@ -36,7 +36,7 @@ Lectures took place on Tuesdays from 15.15 to 17.00.
 
 - The two projections problem. Concordant submodules.
 - Concordant Hermitian differential structures.
-- Mesland's conditions of dagger-concordance.
+- Mesland's creteria for dagger-concordance.
 - Uniqueness of the Levi-Civita connection.
 - Braidings. "Real" forms. Dagger-bimodule connections.
 - Example: the Podleś sphere.
