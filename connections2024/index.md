@@ -6,6 +6,7 @@ In March 2024, Prof. Adam Rennie (Wollongong) gave a mini-course on **connection
 
 - B. Mesland and A. Rennie, [*Existence and uniqueness of the Levi-Civita connection on noncommutative differential forms*](https://arxiv.org/abs/2403.13735).
 - B. Mesland and A. Rennie, [*Curvature and Weitzenbock formula for spectral triples*](https://arxiv.org/abs/2404.07957).
+- B. Mesland and A. Rennie, [*Curvature and Weitzenbock formula for the Podleś quantum sphere*](https://arxiv.org/abs/2406.18483).
 
 Lectures took place on Tuesdays from 15.15 to 17.00.
 
@@ -28,7 +29,7 @@ Lectures took place on Tuesdays from 15.15 to 17.00.
 
 - Dagger bimodules. Frames. Left/right adjointable operators.
 - Index lowerings and raisings with daggers.
-- Connections on dagger bimodules, Hermitian connections, Graßmann connections, conjugate connections.
+- Connections on dagger bimodules. Hermitian connections. Graßmann connections. Conjugate connections.
 - The torsion of a connection.
 - Torsion-freeness and Hermitian connections.
 
