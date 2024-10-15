@@ -33,7 +33,7 @@ Jack Thelin af Ekenstam.
 Dimitris Gerontogiannis, Torstein Ulsnaes.
 
 ---
-### Regular and Long-term visitors
+### Regular and long-term visitors
 Adam Rennie (Jan-May 2024), Alexander Flamant (Feb-June 2024)
 
 
