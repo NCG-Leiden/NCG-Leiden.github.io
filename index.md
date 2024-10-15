@@ -19,7 +19,7 @@ Welcome to the homepage of the NCG research group at Leiden University.
 If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/) or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/).
 
 ---
-### Current Group members
+### Who's who
 
 [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/);
 
