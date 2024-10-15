@@ -28,10 +28,10 @@ Bram Mesland,
 Jack Thelin af Ekenstam.
 
 ---
-###Past group members
+### Past group members
 Dimitris Gerontogiannis, Torstein Ulsnaes.
 ---
-###Regular and Long-term visitors
+### Regular and Long-term visitors
 Adam Rennie (Jan-May 2024), Alexander Flamant (Feb-June 2024)
 
 
