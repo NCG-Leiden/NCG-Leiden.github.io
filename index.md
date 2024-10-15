@@ -29,6 +29,7 @@ Jack Thelin af Ekenstam.
 
 ---
 ### Past group members
+
 Dimitris Gerontogiannis, Torstein Ulsnaes.
 ---
 ### Regular and Long-term visitors
