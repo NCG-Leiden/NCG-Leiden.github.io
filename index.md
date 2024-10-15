@@ -21,9 +21,16 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 ---
 ### Current Group members
 
-[Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/),Yufan Ge,
-[Yuezhao Li](https://liyuezhao.github.io),
+[Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/),
+
 [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/),
+
+PhD students
+
+Yufan Ge,
+
+[Yuezhao Li](https://liyuezhao.github.io),
+
 Jack Thelin af Ekenstam.
 
 ---
