@@ -36,11 +36,11 @@ Jack Thelin af Ekenstam.
 ---
 ### Past group members
 
-Dimitris Gerontogiannis, Torstein Ulsnaes.
+[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home), Torstein Ulsnaes.
 
 ---
 ### Regular and long-term visitors
-Adam Rennie (Jan-May 2024), Alexander Flamant (Feb-June 2024)
+[Adam Rennie](https://scholars.uow.edu.au/adam-rennie) (Jan-May 2024), Alexander Flamant (Feb-June 2024)
 
 
 
