@@ -16,31 +16,31 @@
 
 Welcome to the homepage of the NCG research group at Leiden University!
 
-If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/) or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/).
+If you want to be added to the mailing list for this seminar, please contact [Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/){:target="_blank"} or [Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/){:target="_blank"}.
 
 ---
 ### Who's who
 
-[Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/);
+[Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/){:target="_blank"};
 
-[Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/);
+[Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/){:target="_blank"};
 
 #### Current PhD students
 
 Yufan Ge,
 
-[Yuezhao Li](https://liyuezhao.github.io),
+[Yuezhao Li](https://liyuezhao.github.io){:target="_blank"},
 
 Jack Thelin af Ekenstam.
 
 ---
 ### Past group members
 
-[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home), Torstein Ulsnaes.
+[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, Torstein Ulsnaes.
 
 ---
 ### Regular and long-term visitors
-[Adam Rennie](https://scholars.uow.edu.au/adam-rennie) (Jan-May 2024), Alexander Flamant (Feb-June 2024)
+[Adam Rennie](https://scholars.uow.edu.au/adam-rennie){:target="_blank"} (Jan-May 2024), Alexander Flamant (Feb-June 2024)
 
 
 
