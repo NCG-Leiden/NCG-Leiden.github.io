@@ -21,26 +21,30 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 ---
 ### Who's who
 
-[Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/){:target="_blank"};
+[Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/);
 
-[Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/){:target="_blank"};
+[Bram Mesland](https://pub.math.leidenuniv.nl/~meslandb2/);
 
 #### Current PhD students
 
 Yufan Ge,
 
-[Yuezhao Li](https://liyuezhao.github.io){:target="_blank"},
+[Yuezhao Li](https://liyuezhao.github.io),
 
 Jack Thelin af Ekenstam.
 
 ---
 ### Past group members
 
-[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, Torstein Ulsnaes.
+[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, 
+
+Torstein Ulsnaes.
 
 ---
 ### Regular and long-term visitors
-[Adam Rennie](https://scholars.uow.edu.au/adam-rennie){:target="_blank"} (Jan-May 2024), Alexander Flamant (Feb-June 2024)
+[Adam Rennie](https://scholars.uow.edu.au/adam-rennie) (Jan-May 2024),
+
+Alexander Flamant (Feb-June 2024).
 
 
 
