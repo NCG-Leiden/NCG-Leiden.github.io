@@ -36,7 +36,7 @@ Jack Thelin af Ekenstam.
 ---
 ### Past group members
 
-[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, 
+[Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home), 
 
 Torstein Ulsnaes.
 
