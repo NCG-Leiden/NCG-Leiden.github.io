@@ -10,7 +10,6 @@
     </script>
 </head>
 
-<body>
 # Noncommutative Geometry Group
 
 ##  Leiden University
