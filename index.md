@@ -27,9 +27,9 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 
 #### Current PhD students
 
-Yufan Ge,
+[Yufan Ge](https://sherlock3711.github.io/){:target="_blank"},
 
-[Yuezhao Li](https://liyuezhao.github.io),
+[Yuezhao Li](https://liyuezhao.github.io){:target="_blank"},
 
 Jack Thelin af Ekenstam.
 
