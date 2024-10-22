@@ -47,7 +47,7 @@ Torstein Ulsnaes.
 Alexander Flamant (Feb-June 2024).
 
 --- 
-Our research group has received funding from the [Netherlands Organisation for Scientific Research](https://www.nwo.nl) and from the European Commission through the project [Graph Algebras](https://cordis.europa.eu/project/id/101086394).
+Our research group has received funding from the [Netherlands Organisation for Scientific Research](https://www.nwo.nl){:target="_blank"} and from the European Commission through the project [Graph Algebras](https://cordis.europa.eu/project/id/101086394){:target="_blank"}.
 
 
 
