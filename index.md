@@ -42,7 +42,7 @@ Torstein Ulsnaes.
 
 ---
 ### Regular and long-term visitors
-[Adam Rennie](https://scholars.uow.edu.au/adam-rennie) (Jan-May 2024),
+[Adam Rennie](https://scholars.uow.edu.au/adam-rennie){:target="_blank"} (Jan-May 2024),
 
 Alexander Flamant (Feb-June 2024).
 
