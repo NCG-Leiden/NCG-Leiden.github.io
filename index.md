@@ -27,7 +27,7 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 
 #### Current PhD students
 
-[Yufan Ge](https://sherlock3711.github.io/){:target="_blank"},
+[Yufan Ge](https://yufan-ge-math.github.io/){:target="_blank"},
 
 [Yuezhao Li](https://liyuezhao.github.io){:target="_blank"},
 
