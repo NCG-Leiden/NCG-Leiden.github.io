@@ -38,7 +38,7 @@ Jack Thelin af Ekenstam.
 
 [Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, 
 
-[Torstein Ulsnaes](https://people.sissa.it/~tulsnaes/){:target="_blank"}.
+[Torstein Ulsnaes](https://sites.google.com/view/torsteinulsnaes/){:target="_blank"}.
 
 ---
 ### Regular and long-term visitors
