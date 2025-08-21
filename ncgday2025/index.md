@@ -43,7 +43,6 @@ well as potentially quite large. Under reasonable assumptions, these
 algebras are classifiable in the sense of the Elliott program. If time
 permits I will sketch some K-theory calculations, which are work in
 progress.
-_______
 
 Akhila Nelliyamkunnath Satheesan (Prague), ____Weighted quantum projective spaces as graph C*-algebras___
 
@@ -54,11 +53,13 @@ weighted quantum projective spaces. I will give a complete list of their
 irreducible representations, as well as a description of the topology on
 the primitive ideal space. The graph can be constructed using the
 results of Eilers-Ruiz-Sorensen on amplified graph C*-algebras.
-_______
 
 Jesse Reimann (Delft), ____Split exact sequences and KK-equivalences of quantum flag manifolds___
 
 In this talk, I will discuss how the construction of explicit split exact sequences between quantum projective spaces of Arici and Zegers extends to general quantum flag manifolds, based on the graph description of quantum flag manifolds of Brzeziński, Krähmer, Ó Buachalla, and Strung. This leads to a KK-equivalence between quantum flag manifolds and multiple copies of the complex numbers. As the graphs of general quantum flag manifolds can become quite large, we explore options of stating this explicit construction in terms of operations on the associated Dynkin diagrams.
 
 Based on ongoing work with Enli Chen and Sophie Zegers.
+
+## Sponsors
+This workshop is partially supported by the Netherlands Organisation of Scientific Research (NWO) under the VIDI grant _The noncommutative geometry of bounded symmetric domains_
 
