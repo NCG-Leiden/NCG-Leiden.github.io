@@ -56,7 +56,7 @@ algebras are classifiable in the sense of the Elliott program. If time
 permits I will sketch some K-theory calculations, which are work in
 progress.
 
-Akhila Nelliyamkunnath Satheesan (Prague), ____Weighted quantum projective spaces as graph C*-algebras___
+Akhila Nelliyamkunnath Satheesan (Prague), ___Weighted quantum projective spaces as graph C*-algebras___
 
 Weighted quantum projective spaces are defined as fixed point algebras
 of the quantum sphere with respect to a weighted U(1) action. In this
@@ -66,7 +66,7 @@ irreducible representations, as well as a description of the topology on
 the primitive ideal space. The graph can be constructed using the
 results of Eilers-Ruiz-Sorensen on amplified graph C*-algebras.
 
-Jesse Reimann (Delft), ____Split exact sequences and KK-equivalences of quantum flag manifolds___
+Jesse Reimann (Delft), ___Split exact sequences and KK-equivalences of quantum flag manifolds___
 
 In this talk, I will discuss how the construction of explicit split exact sequences between quantum projective spaces of Arici and Zegers extends to general quantum flag manifolds, based on the graph description of quantum flag manifolds of Brzeziński, Krähmer, Ó Buachalla, and Strung. This leads to a KK-equivalence between quantum flag manifolds and multiple copies of the complex numbers. As the graphs of general quantum flag manifolds can become quite large, we explore options of stating this explicit construction in terms of operations on the associated Dynkin diagrams.
 
