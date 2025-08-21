@@ -10,7 +10,7 @@
     </script>
 </head>
 
-# Workshop NCGday 2026
+# Workshop NCGday 2025
 
 ## Thursday August 21, 10:00-17:00 in BW0.20
 
