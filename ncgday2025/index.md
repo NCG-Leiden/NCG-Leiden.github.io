@@ -1,4 +1,6 @@
-Workshop NCGday 2026, Thursday August 21, 10:00-17:00 in BW0.20
+# Workshop NCGday 2026
+
+## Thursday August 21, 10:00-17:00 in BW0.20
 
 10:00-11:00 — Chris Bourne (Nagoya):  A C*-module framework for interfaces of discrete quantum systems
 11:00-12:00 — Lars Koekenbier (Erlangen): A transfer matrix analysis of the asymptotic spectra of Toeplitz matrices and their perturbations
@@ -9,8 +11,8 @@ Workshop NCGday 2026, Thursday August 21, 10:00-17:00 in BW0.20
 16:00-17:00 — Jesse Reimann (Delft): Split exact sequences and KK-equivalences of quantum flag manifolds
 17:00 -- Drinks at bar "De Fusie" (inside the Gorlaeus buidling).
 
-
-*Abstracts:*
+----------
+## Abstracts:
 
 Speaker: Chris Bourne (Nagoya)
 Title: A C*-module framework for interfaces of discrete quantum systems
