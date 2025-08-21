@@ -3,25 +3,31 @@
 ## Thursday August 21, 10:00-17:00 in BW0.20
 
 10:00-11:00 — Chris Bourne (Nagoya):  A C*-module framework for interfaces of discrete quantum systems
+
 11:00-12:00 — Lars Koekenbier (Erlangen): A transfer matrix analysis of the asymptotic spectra of Toeplitz matrices and their perturbations
+
 12:15-13:15: Lunch
+
 13:15-14:15 —  Yuezhao Li (Leiden): On topological phases of aperiodic matter
+
 14:15-15:00 —  Aaron Kettner (Prague): Cuntz-Pimsner algebras of homeomorphisms twisted by vector bundles
+
 15.15-16:00 — Akhila Nelliyamkunnath Satheesan (Prague): Weighted quantum projective spaces as graph C*-algebras
+
 16:00-17:00 — Jesse Reimann (Delft): Split exact sequences and KK-equivalences of quantum flag manifolds
+
 17:00 -- Drinks at bar "De Fusie" (inside the Gorlaeus buidling).
 
-----------
+--
 ## Abstracts:
 
-Speaker: Chris Bourne (Nagoya)
-Title: A C*-module framework for interfaces of discrete quantum systems
-Abstract:
-Loosely speaking, an interface describes a spatial mixing of several systems described by a C*-algebra of observables such that these mixed dynamics are not felt 'at infinity'. Building from work by Măntoiu, we give a mathematical description of (discrete) interfaces using C*-modules and (discrete) crossed products. Several examples will be given as well as spectral and index-theoretic properties.
----------------
+Chris Bourne (Nagoya) __A C*-module framework for interfaces of discrete quantum systems__
 
-Speaker: Lars Koekenbier (Erlangen)
-Title: A transfer matrix analysis of the asymptotic spectra of Toeplitz matrices and their perturbations
+Loosely speaking, an interface describes a spatial mixing of several systems described by a C*-algebra of observables such that these mixed dynamics are not felt 'at infinity'. Building from work by Măntoiu, we give a mathematical description of (discrete) interfaces using C*-modules and (discrete) crossed products. Several examples will be given as well as spectral and index-theoretic properties.
+
+--
+
+Lars Koekenbier (Erlangen) __A transfer matrix analysis of the asymptotic spectra of Toeplitz matrices and their perturbations__
 
 Abstract: In this talk I will show how transfer matrix techniques can be used to compute the asymptotic spectra of non-Hermitian tridiagonal finite-block Toeplitz matrices. In this way one can recover Widoms results on the asymptotic spectra of such matrices. Special attention will be given to topological eigenvalues arising from matrices with a chiral symmetry and the associated bulk-boundary correspondence. Going beyond Widoms theory, I will also show how the transfer matrix approach can be used to compute the asymptotic spectra of Toeplitz matrices with a perturbation on a finite number of sites. One can then see how the different parts of the spectra depend on the perturbations. Varying the ranks of the perturbations one can now also interpolate between open and closed boundary conditions. The results will be illustrated by numerics.
 ---------------
