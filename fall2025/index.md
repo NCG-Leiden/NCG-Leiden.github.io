@@ -5,12 +5,16 @@
 ## Thursday October 23rd, 10:00-17:00, room TBC
 
 10:00-11:00 — Evgenios Kakariadis (Athens)
+
 11:00-12:00 — Bram Mesland (Leiden)
+
 
 12:15-13:15: Lunch
 
-13:15-14:15 — 
-14:15-15:15-
+13:30-14:30 — 
+
+14:30-15:30-
+
 
 
 17:00 -- Drinks at bar "De Fusie" (inside the Gorlaeus buidling).
