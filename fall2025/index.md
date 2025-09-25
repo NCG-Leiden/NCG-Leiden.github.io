@@ -11,7 +11,7 @@
 
 12:15-13:15: Lunch
 
-13:30-14:30 — 
+13:30-14:30 — Dimitris Gerontogiannis (IMPAN)
 
 14:30-15:30-
 
