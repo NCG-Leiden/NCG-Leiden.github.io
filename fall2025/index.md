@@ -6,14 +6,14 @@
 
 10:00-11:00 — Evgenios Kakariadis (Athens)
 
-11:00-12:00 — Bram Mesland (Leiden)
+11:00-12:00 — Bob Yuncken
 
 
-12:15-13:15: Lunch
+12:15-13:30: Lunch
 
-13:30-14:30 — Dimitris Gerontogiannis (IMPAN)
+13:30-14:30 — Bram Mesland (Leiden)
 
-14:30-15:30-
+14:45-15:45-  Dimitris Gerontogiannis (IMPAN)
 
 
 
