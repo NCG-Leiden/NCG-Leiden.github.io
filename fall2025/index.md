@@ -4,7 +4,7 @@
 
 ## Thursday October 23rd, 10:00-17:00, room TBC
 
-10:00-11:00 — Evgenios Kakariadis (Athens), _Selfadjoint operator spaces_
+10:00-11:00 — Evgenios Kakariadis (Athens): _Selfadjoint operator spaces_
 
 11:00-12:00 — Bob Yuncken
 
