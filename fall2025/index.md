@@ -23,7 +23,7 @@
 
 E. Kakariadis, ___Selfadjoint operator spaces___
 
-Abstract: Operator systems, i.e., closed, selfadjoint subspaces of $\B(H)$
+Abstract: Operator systems, i.e., closed, selfadjoint subspaces of $B(H)$
 containing its unit, have a central role in the theory of Operator
 Algebras. Lately, the community has been actively considering selfadjoint
 operator subspaces, but which need not be unital. Those appear naturally,
@@ -55,5 +55,5 @@ Apollonas Paraskevas.
 
 ## Sponsors
 
-This workshop is partially supported by the Netherlands Organisation of Scientific Research (NWO) under the VIDI grant The noncommutative geometry of bounded symmetric domains
+This workshop is partially supported by the Netherlands Organisation of Scientific Research (NWO) under the VIDI grant __The noncommutative geometry of bounded symmetric domains__
 
