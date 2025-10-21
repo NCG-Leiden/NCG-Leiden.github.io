@@ -4,22 +4,30 @@
 
 ## Thursday October 23rd, 10:00-17:00, room TBC
 
-10:00-11:00 — Evgenios Kakariadis (Athens): _Selfadjoint operator spaces_
-
-11:00-12:00 — Bob Yuncken
-
+10:00-11:00 — Bob Yuncken (Lorainne): _Harish-Chandra’s philosophy of cusp forms via Lie groupoids_
+11:00-12:00 — Dimitris Gerontogiannis (IMPAN): _(Quantum) Isometry groups of graph algebras_
 
 12:15-13:30: Lunch
 
-13:30-14:30 — Bram Mesland (Leiden)
+13:30-14:30 — Evgenios Kakariadis (Athens): _Selfadjoint operator spaces_
 
-14:45-15:45-  Dimitris Gerontogiannis (IMPAN)
 
+14:45-15:45-  Bram Mesland (Leiden):
 
 
 17:00 -- Drinks at bar "De Fusie" (inside the Gorlaeus buidling).
 
 ## Abstracts:
+
+R. Yuncken, ___Harish-Chandra’s philosophy of cusp forms via Lie groupoids___
+
+Abstract: Harish-Chandra spent his amazing career understanding the unitary representations of real reductive Lie groups, like SL(n,R).  One of the crucial points in this theory is his "philosophy of cusp forms", which says that any tempered unitary representation of a real reductive group (with compact centre) is either discrete series, meaning it is a subrepresentation of the regular representation, or it is principal series, meaning it is induced from a parabolic subgroup like the block upper-triangular subgroup in SL(n,R).  This sets up an inductive argument over ever smaller subgroups.  I will describe how Harish-Chandra’s principal follows from a simple Lie groupoid construction due to Omar Mohsen.
+
+(Joint work with Jacob Bradd and Nigel Higson)
+
+D. Gerontogiannis, ___(Quantum) Isometry groups of graph algebras___
+
+Abstract: This talk will provide an overview of my joint work with Goffeng, Mesland on the isometry groups of Cuntz-Krieger algebras associated with the log-Laplacian. It will also present ongoing work with Freslon, Skalski on the corresponding quantum isometry groups.
 
 E. Kakariadis, ___Selfadjoint operator spaces___
 
