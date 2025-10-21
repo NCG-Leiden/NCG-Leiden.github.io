@@ -5,6 +5,7 @@
 ## Thursday October 23rd, 10:00-17:00, room TBC
 
 10:00-11:00 — Bob Yuncken (Lorainne): _Harish-Chandra’s philosophy of cusp forms via Lie groupoids_
+
 11:00-12:00 — Dimitris Gerontogiannis (IMPAN): _(Quantum) Isometry groups of graph algebras_
 
 12:15-13:30: Lunch
