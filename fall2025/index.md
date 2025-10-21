@@ -2,7 +2,7 @@
 
 # Workshop on Operator Algebras
 
-## Thursday October 23rd, 10:00-17:00, room TBC
+## Thursday October 23rd, 10:00-17:00, room BW0.29
 
 10:00-11:00 — Bob Yuncken (Lorainne): _Harish-Chandra’s philosophy of cusp forms via Lie groupoids_
 
