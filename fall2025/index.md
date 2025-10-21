@@ -13,7 +13,7 @@
 13:30-14:30 — Evgenios Kakariadis (Athens): _Selfadjoint operator spaces_
 
 
-14:45-15:45-  Bram Mesland (Leiden):
+14:45-15:45-  Bram Mesland (Leiden): _Poincaré duality for topological graph algebras_
 
 
 17:00 -- Drinks at bar "De Fusie" (inside the Gorlaeus buidling).
