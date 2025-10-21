@@ -22,7 +22,7 @@
 
 R. Yuncken, ___Harish-Chandra’s philosophy of cusp forms via Lie groupoids___
 
-Abstract: Harish-Chandra spent his amazing career understanding the unitary representations of real reductive Lie groups, like SL(n,R).  One of the crucial points in this theory is his "philosophy of cusp forms", which says that any tempered unitary representation of a real reductive group (with compact centre) is either discrete series, meaning it is a subrepresentation of the regular representation, or it is principal series, meaning it is induced from a parabolic subgroup like the block upper-triangular subgroup in SL(n,R).  This sets up an inductive argument over ever smaller subgroups.  I will describe how Harish-Chandra’s principal follows from a simple Lie groupoid construction due to Omar Mohsen.
+Abstract: Harish-Chandra spent his amazing career understanding the unitary representations of real reductive Lie groups, like SL(n,R).  One of the crucial points in this theory is his "philosophy of cusp forms", which says that any tempered unitary representation of a real reductive group (with compact centre) is either discrete series, meaning it is a subrepresentation of the regular representation, or it is principal series, meaning it is induced from a parabolic subgroup like the block upper-triangular subgroup in SL(n,R).  This sets up an inductive argument over ever smaller subgroups.  I will describe how Harish-Chandra’s principle follows from a simple Lie groupoid construction due to Omar Mohsen.
 
 (Joint work with Jacob Bradd and Nigel Higson)
 
