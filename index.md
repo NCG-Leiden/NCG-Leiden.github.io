@@ -27,11 +27,14 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 
 #### Current PhD students
 
+Max Schmidt,
+
+#### Former PhD students
+
 [Yufan Ge](https://yufan-ge-math.github.io/){:target="_blank"},
 
 [Yuezhao Li](https://liyuezhao.github.io){:target="_blank"},
 
-Jack Thelin af Ekenstam.
 
 ---
 ### Past group members
@@ -39,6 +42,8 @@ Jack Thelin af Ekenstam.
 [Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, 
 
 [Torstein Ulsnaes](https://sites.google.com/view/torsteinulsnaes/){:target="_blank"}.
+
+Jack Thelin af Ekenstam.
 
 ---
 ### Regular and long-term visitors
