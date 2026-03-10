@@ -31,17 +31,18 @@ Max Schmidt,
 
 #### Former PhD students
 
-[Yufan Ge](https://yufan-ge-math.github.io/){:target="_blank"}. PhD Defence on 22/10/2025.
-
 [Yuezhao Li](https://liyuezhao.github.io){:target="_blank"}. PhD Defence on 26/02/2026. Now at MPIM Bonn.
+
+[Yufan Ge](https://yufan-ge-math.github.io/){:target="_blank"}. PhD Defence on 22/10/2025. 
+
+[Torstein Ulsnaes](https://sites.google.com/view/torsteinulsnaes/){:target="_blank"}. PhD Defence on 10/10/2024. Now at KIT Karlsruhe.
+
 
 
 ---
 ### Past group members
 
 [Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home){:target="_blank"}, 
-
-[Torstein Ulsnaes](https://sites.google.com/view/torsteinulsnaes/){:target="_blank"}.
 
 Jack Thelin af Ekenstam.
 
