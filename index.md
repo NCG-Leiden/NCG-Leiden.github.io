@@ -31,9 +31,9 @@ Max Schmidt,
 
 #### Former PhD students
 
-[Yufan Ge](https://yufan-ge-math.github.io/){:target="_blank"},
+[Yufan Ge](https://yufan-ge-math.github.io/){:target="_blank"}. PhD Defence on 22/10/2025.
 
-[Yuezhao Li](https://liyuezhao.github.io){:target="_blank"},
+[Yuezhao Li](https://liyuezhao.github.io){:target="_blank"}. PhD Defence on 26/02/2026. Now at MPIM Bonn.
 
 
 ---
