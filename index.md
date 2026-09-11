@@ -27,7 +27,9 @@ If you want to be added to the mailing list for this seminar, please contact [Fr
 
 #### Current PhD students
 
-Max Schmidt. 
+Max Schmidt.
+
+Matt Verhoeven.
 
 #### Former PhD students
 
