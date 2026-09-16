@@ -1,4 +1,4 @@
-## 24 Noncommutative Geometry Research Seminar
+## Noncommutative Geometry Research Seminar
 
 In the first semester of 2026/2027 the noncommutative geometry group will run a local NCG research seminar.
 
