@@ -7,6 +7,9 @@ In the first semester of 2026/2027 the noncommutative geometry group will run a 
 ## List of talks
 ---
 
+---
+## Past Talks
+
 1 Oct 2026: **Max Schmidt** (Leiden)
 
 **Title**: The Quantum Hall Effect and the Hofstadter Butterfly
@@ -23,4 +26,5 @@ In the first semester of 2026/2027 the noncommutative geometry group will run a 
 **Abstract**: In this talk I will present parts of my master thesis. Spectral truncations in the sense of Connes-Van Suijlekom are a method to `approximate' noncommutative spaces (C*-algebras or spectral triples) by considering only a finite amount of spectral information, typically provided by a Dirac operator. I will present this framework and its application to the manifold SU(2). Furthermore, this can be applied to determine K-theoretic invariants of SU(2) using the spectral localizer introduced by Loring and Schulz-Baldes.
 
 **Place and time**: DM 1.19. 15:15-16:15. 
+
 ---
