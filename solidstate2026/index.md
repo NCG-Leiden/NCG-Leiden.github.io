@@ -5,8 +5,18 @@ In the first semester of 2026/2027 the noncommutative geometry group will run a 
 ---
 
 ## List of talks
+---
 
-10 Sep 2024: **Matt Verhoeven** (Leiden)
+1 Oct 2026: **Max Schmidt** (Leiden)
+
+**Title**: The Quantum Hall Effect and the Hofstadter Butterfly
+
+**Abstract**: In this talk we will discuss the Schrödinger operators describing the tight binding model in the integer quantum Hall effect using the example for square lattices. Especially, we will focus on the properties of their spectra which are given by the Hofstadter butterfly and discuss open questions.
+
+*Place and time*: BM1.33.
+
+---
+10 Sep 2026: **Matt Verhoeven** (Leiden)
 
 **Title**: Spectral truncations and the spectral localizer on SU(2)
 
@@ -15,11 +25,5 @@ In the first semester of 2026/2027 the noncommutative geometry group will run a 
 *Place and time*: DM 1.19. 15:15-16:15. 
 ---
 
-TBA: **TBA**
 
-**Title**: The Quantum Hall Effect and the Hofstadter Butterfly
-
-**Abstract**: In this talk we will discuss the Schrödinger operators describing the tight binding model in the integer quantum Hall effect using the example for square lattices. Especially, we will focus on the properties of their spectra which are given by the Hofstadter butterfly and discuss open questions.
-
-*Place and time*: TBA.
 ---
